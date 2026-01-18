@@ -1,12 +1,28 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.22.91
+! Version: 1.1.22.92
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-18T11:06:59.548Z
+! Last modified: 2026-01-18T12:13:50.967Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||booking.reservation-id962781.com^
+||exploreunite.com^
+||as6h72g.lat^
+||wrightryder.shop^
+||allegrolokalnie.pl-oferta826728.sbs^
+||shapeerlt.com^
+||stone-clothing.shop^
+||felyniy.convertri.com^
+||fixolibuloli.com^
+||summadistr.rest^
+||unjusfired.rest^
+||outdrroadze.rest^
+||jacksonchristopher.shop^
+||scorrinvel.rest^
+||bloccquees.rest^
+||accosendoc.rest^
 ||go-sale.online^
 ||medlamarkt.pl^
 ||pl.twoja-paka.eu^
@@ -120702,11 +120718,3 @@
 ||neflex-promo.4lima.de^
 ||pocztex.pl-l.top^
 ||pocztex.pl-k.top^
-||echo-button-page-maker-10-58.lovable.app^
-||frontimbra.pro^
-||pocztex.pl-g.top^
-||cardverify07971-booking.com^
-||ingrislutt.pro^
-||walizka-polska.shop^
-||admin-properties-captcha.com^
-||hc8uea.top^
