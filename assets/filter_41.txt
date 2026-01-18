@@ -1,12 +1,39 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.22.95
+! Version: 1.1.22.96
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-18T15:07:57.703Z
+! Last modified: 2026-01-18T16:09:31.115Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||no-shoppl.com^
+||rumertifel.com^
+||perveautoc.rest^
+||sqm-ganancias.com^
+||hotrgames.com^
+||q8ocml.bond^
+||disinrepud.rest^
+||www.josephlee.shop^
+||yckj1234.com^
+||www.saleoutletse.shop^
+||92763ge.lol^
+||idoneaccal.rest^
+||zhumj.cyou^
+||onlineshopvip.pro^
+||tigneconso.rest^
+||questexpand.com^
+||allegrolokalnie.8390019.click^
+||24belgium.today^
+||booking.reservation-id995046.com^
+||checkin-rooom-portal.com^
+||sanisurual.com^
+||welcom-info.com^
+||biolophili.rest^
+||injeritora.world^
+||guestreservatigate.com^
+||lmudglott.rest^
+||secure-guest-entery.com^
 ||sneakcanvas.top^
 ||direkt-hotel-access.com^
 ||room-chekin-direct.com^
@@ -120684,30 +120711,3 @@
 ||brwfurniture.shop^
 ||rower-sklep.shop^
 ||relaksogrodowy.shop^
-||olx.securetransaction24wygodnaplatnosc24h.cfd^
-||homoir.com^
-||allegrolokalnie.pl-87619.icu^
-||olx.pl-87619.icu^
-||allegro.pl-87619.icu^
-||technology-git-main-id623917540.vercel.app^
-||allegrolokalnie.pl-oferta4891813.cfd^
-||skill-mind.info^
-||purpose-way.info^
-||step-zone.info^
-||personal-guide.info^
-||mentor-move.info^
-||mind-shift.info^
-||grow-circle.info^
-||growth-way.info^
-||coach-start.info^
-||inner-way.info^
-||think-move.info^
-||progress-zone.info^
-||inspire-path.info^
-||clear-talk.info^
-||clarity-hub.info^
-||rise-path.info^
-||brain-map.info^
-||focus-drive.info^
-||talent-map.info^
-||goal-power.info^
