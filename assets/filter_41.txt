@@ -1,12 +1,28 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.22.99
+! Version: 1.1.23.0
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-18T19:06:45.005Z
+! Last modified: 2026-01-18T20:09:07.826Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||allegrolokalnie.096211.click^
+||4wgw625.lat^
+||cliff5edge.pro^
+||allegrolokalnie.pl55659.cfd^
+||allegrolokalnie.12748p49213x2.sbs^
+||becompany.markets^
+||homprepsie.com^
+||gorriealet.com^
+||trustcontrol092-booking.com^
+||dianarestauranthos.world^
+||colorbiti.com^
+||daynicehoteltokyo.com^
+||madlensstudio.pl^
+||hagegay.com^
+||protect48-booking.com^
+||corenvia.site^
 ||leukatackl.rest^
 ||netolavexario.com^
 ||vexonaventrix.com^
@@ -120702,23 +120718,3 @@
 ||infohorizonhub.info^
 ||woodracers.com^
 ||pl-kategorie0476957636834.icu^
-||ticketmaster.polska-resale.com^
-||nuwalandia.pl^
-||vinteda.app^
-||calvecancr.pro^
-||allegrolokalnie.pl10048przedmiot.icu^
-||oldenticas.pl^
-||fusionne6xttrend.online^
-||storypeak.it.com^
-||supersicke.com^
-||xutogew.com^
-||technorift.site^
-||glitchvoyager.site^
-||vulurip.com^
-||fastsystemdirect.online^
-||veridiumcapital.co.za^
-||allegro.pl-62189.cfd^
-||allegrolokalnie.pl-62189.cfd^
-||alebilet.pl-62189.cfd^
-||olx.pl-62189.cfd^
-||pl-oferta78346.icu^
