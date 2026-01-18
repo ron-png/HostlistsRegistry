@@ -1,9 +1,9 @@
 !
 ! Title: Malicious URL Blocklist (URLHaus)
 ! Description: Blocklist of malicious websites based on the Database dump of Abuse.ch URLhaus
-! Version: 1.0.24.31
+! Version: 1.0.24.32
 ! Homepage: https://urlhaus.abuse.ch/
-! Last modified: 2026-01-18T00:40:13.683Z
+! Last modified: 2026-01-18T13:15:32.467Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -388,7 +388,6 @@
 ||31agostomax3.dynuddns.net^
 ||31agostomax4.dynuddns.com^
 ||32.k59ee.ru^
-||324.5m9081.ru^
 ||32w5.softcr5st.ru^
 ||33.cl0udtrace.ru^
 ||33.njur.ru^
@@ -1269,6 +1268,7 @@
 ||adfjkadf.xyz^
 ||adhp.neterra.net^
 ||admin.byte.in.ua^
+||admin.gestroom.it^
 ||admin.townandcountrysanitations.top^
 ||admin.tsrv1.ws^
 ||adobe.apsalgida.com^
@@ -1369,6 +1369,7 @@
 ||alpina.alphacinder.digital^
 ||alqb.f2na7under.ru^
 ||also.k4tem.ru^
+||altamoorgoods.com^
 ||altar.chan8eembr2ce.ru^
 ||alto3.cl0udcrest.ru^
 ||altos.cloudv1be.ru^
@@ -1408,6 +1409,7 @@
 ||ant.vo3n.ru^
 ||anticheat.ltd^
 ||antifs.site^
+||antvietnam.com^
 ||anubisonline.top^
 ||anupammills.com^
 ||anxt.ru^
@@ -1911,7 +1913,6 @@
 ||bl.888-c.ru^
 ||bl0stw.windf1re.ru^
 ||bl3nda.glimmerkranz.ru^
-||bla.backloghelme.digital^
 ||blackhattoolz.com^
 ||blaiz.me^
 ||blatt.stormgrat.ru^
@@ -1922,7 +1923,6 @@
 ||blenderxnew.tohocaper1979.workers.dev^
 ||blessdayservices.org^
 ||bleue4.bluem1st.ru^
-||blg.com.mx^
 ||blink.cl0udvex.ru^
 ||blink.foamswitch.ru^
 ||blink.st0nepeak.ru^
@@ -1931,6 +1931,7 @@
 ||blink2.hre9in7mamma.ru^
 ||blink6.hre9in7mamma.ru^
 ||blink8.brahtr0phy.ru^
+||blit.co.za^
 ||blitz.elmfalter.ru^
 ||bln.vex0.ru^
 ||block.c2rpyub2n.ru^
@@ -2371,6 +2372,7 @@
 ||centaurustermas.com^
 ||centerbet189.online^
 ||cerbereus.monster^
+||cerkery.com^
 ||certificadodigitapp.com^
 ||cerulean-puppy-776621.netlify.app^
 ||cex9a8ef.hush-pancake.ru^
@@ -2412,7 +2414,6 @@
 ||chromocloud.com^
 ||chu.dc-8.ru^
 ||chuanshi.pages.dev^
-||chuguadventures.co.tz^
 ||churchinmanila.org^
 ||chx.darkl1ne.ru^
 ||ci0udx.cioudberryx.ru^
@@ -2592,6 +2593,7 @@
 ||cormiq.di5pl2yleft.ru^
 ||corporateboxingevent.com^
 ||cossak.cos5acklove1.ru^
+||cotecsecuritygroup.com^
 ||couchtalk.co.za^
 ||cove.n4ym.online^
 ||cove.r-9-xa.ru^
@@ -2743,21 +2745,15 @@
 ||d3l.quartznibble.ru^
 ||d3pf0x.deepf0x.ru^
 ||d3qe7gf49vd8v4f7qkog3k83qyjmxqekd.oast.site^
-||d3qe7gf49vd8v4f7qkog43i866xodtjgf.oast.site^
 ||d3qe7gf49vd8v4f7qkog4p7irt8y4aybi.oast.site^
-||d3qe7gf49vd8v4f7qkog8izdf7835bpir.oast.site^
-||d3qe7gf49vd8v4f7qkogb79ocxocdpqpo.oast.site^
-||d3qe7gf49vd8v4f7qkogd47qp5bp7yguw.oast.site^
 ||d3qe7gf49vd8v4f7qkogh3syf14cmbshj.oast.site^
 ||d3qe7gf49vd8v4f7qkogh8xg1zos3ezoy.oast.site^
-||d3qe7gf49vd8v4f7qkogjykzj4f8j7qhx.oast.site^
 ||d3qe7gf49vd8v4f7qkogk46snzmyieg5q.oast.site^
 ||d3qe7gf49vd8v4f7qkogknqs6a4d4a3ip.oast.site^
 ||d3qe7gf49vd8v4f7qkogmitkfds44zhxt.oast.site^
 ||d3qe7gf49vd8v4f7qkognrsu7qernwa8d.oast.site^
 ||d3qe7gf49vd8v4f7qkogoypbgorsrcf8p.oast.site^
 ||d3qe7gf49vd8v4f7qkogqo383gf7muf44.oast.site^
-||d3qe7gf49vd8v4f7qkogrdkj8d3zt4zss.oast.site^
 ||d3qe7gf49vd8v4f7qkogttfnr4ipncbri.oast.site^
 ||d3qe7gf49vd8v4f7qkogujj538awzc8nn.oast.site^
 ||d3qe7gf49vd8v4f7qkogw79coqphmu8hr.oast.site^
@@ -2827,6 +2823,7 @@
 ||dalmex.circu1arc0pna.ru^
 ||dampf.flintquelle.ru^
 ||dampf.frostgipfel.ru^
+||dansorium.gr^
 ||danzep.tr2chec0rrupt.ru^
 ||dap.ventrill.ru^
 ||daqrel.nightcl0ud.ru^
@@ -3136,6 +3133,7 @@
 ||drb.amin0mer3ges.ru^
 ||dream5.tuful32io3.online^
 ||dreams.sys7yn0iy5.ru^
+||dreamwatchevent.com^
 ||drgenov.com^
 ||drift.1-byhih-05-ey.ru^
 ||drift.brambleholt.ru^
@@ -3697,7 +3695,6 @@
 ||first-security-verden.de^
 ||fishspike.pro^
 ||fistingasser.sbs^
-||fitforevercavan.ie^
 ||fix.k8li.ru^
 ||fizz.de1iainal0s.ru^
 ||fizz.kettle-wisp.ru^
@@ -4332,7 +4329,6 @@
 ||goal123.wiki^
 ||goat.k8li.online^
 ||goat.tu-7-q.ru^
-||gobiotechpestcontrol.com^
 ||goboadvertising.autodealertech.co^
 ||gobxur.buoyc0mp1aint.ru^
 ||gocontract.co.uk^
@@ -4807,7 +4803,6 @@
 ||host-95-255-114-11.business.telecomitalia.it^
 ||host.forestcl0ud.ru^
 ||host.pl-8-a.ru^
-||hostealo.com^
 ||hostel.org.br^
 ||hostingdanfe.store^
 ||hostphpwindowsapps.ydns.eu^
@@ -5442,6 +5437,7 @@
 ||kas.orbitalnip.ru^
 ||katana.chernobyl.network^
 ||katyache.com^
+||kavacanada.ca^
 ||kavqet.me2n5precede.ru^
 ||kavyasourcing.com^
 ||kb786matkaapp.store^
@@ -6110,7 +6106,6 @@
 ||ma.windshift.ru^
 ||ma.xer-o.ru^
 ||ma4.sa3x.ru^
-||maalamin.sch.id^
 ||mabfin.act0rpie7ce.ru^
 ||mabfin.hate7reven2nt.ru^
 ||mabneg.hump7yb0lt.ru^
@@ -6917,7 +6912,6 @@
 ||oka.24s6.ru^
 ||okhan.net^
 ||oknkywzi.in2che1ncrem.ru^
-||oknoplastik.sk^
 ||okolojosephthesecondsfoundation.org^
 ||ol.wi-7e.ru^
 ||ol.wildcr3st.ru^
@@ -7034,6 +7028,7 @@
 ||os.x3-ri.ru^
 ||osamasabir.com^
 ||osjsjsj.sbs^
+||osn.lunxe.live^
 ||ospwrf10ny.anondns.net^
 ||oth5c1.c1othwou1d.ru^
 ||oth5wd.c-1-othwou-1-d.ru^
@@ -7193,7 +7188,6 @@
 ||paper.snare-plum.ru^
 ||par.m4rj.ru^
 ||paradox924x.pages.dev^
-||partner-rutube.ru^
 ||parvux.ar5hinas5ist.ru^
 ||patch.5hri1luv.ru^
 ||patch.fl0wmortar.ru^
@@ -8609,7 +8603,6 @@
 ||shore.sunm0tion.ru^
 ||short.n0uvpu7itan.ru^
 ||shotv.app^
-||shqdown.ggzuhao.com^
 ||shy.n4ym.ru^
 ||shztibgb.atendimentozm.com^
 ||sibto4.b2rtdenia1.ru^
@@ -8672,6 +8665,7 @@
 ||sk-comtel.com^
 ||sk.loxr.ru^
 ||sk1es.tuful32io3.online^
+||skanswers.com^
 ||skeld7.p0rthopper.ru^
 ||skillnorequired.cc^
 ||sky.b0uncerco1d.ru^
@@ -8840,7 +8834,6 @@
 ||splash.dunkr1n5her.ru^
 ||splash8.r1verdrop.ru^
 ||splo8s.rainbyte.ru^
-||spoar.org.in^
 ||spool.doub1ebarzu8.ru^
 ||spore.ent0molobo1t.ru^
 ||spotifyapk.net^
@@ -8902,6 +8895,7 @@
 ||starmarkt.ru^
 ||starvina.cfd^
 ||static.3001.net^
+||static.ilclock.com^
 ||static.topxgun.com^
 ||static.youdm.cn^
 ||static.zongheng.com^
@@ -8960,6 +8954,7 @@
 ||stone.ga8tukh1yat.ru^
 ||stone.m1stbird.ru^
 ||stone.nightm1nt.ru^
+||stonecradle.com^
 ||stoneo.tuful32io3.ru^
 ||stop.m0rning.ru^
 ||store.csmanay.com^
@@ -9538,6 +9533,7 @@
 ||ts.softcl0ud.ru^
 ||tset1.wifime.biz.id^
 ||tsfs.com.my^
+||tsmau.com^
 ||tsxw.silentl1ne.ru^
 ||tt.hush-zigzag.ru^
 ||tt7.r0en3ap.ru^
@@ -9619,7 +9615,6 @@
 ||tykitakis.sbs^
 ||tykitoks-uzb.sbs^
 ||tyr2to6g.cl0udpath.ru^
-||tytbit.ru^
 ||tyuy.xyz^
 ||tyxqer.hate7reven2nt.ru^
 ||tz.oc57y.ru^
@@ -10483,7 +10478,6 @@
 ||winde.moonf1eld.ru^
 ||windomstatetheater.com^
 ||windows-update.site^
-||windriversfiles.imeitools.com^
 ||windyy.qzz.io^
 ||wing.rainf0x.ru^
 ||wingor.brightw1ng.ru^
@@ -10628,7 +10622,6 @@
 ||wwtalk.cyou^
 ||wwtalk.icu^
 ||www-martiansoftware-com.pages.dev^
-||www2.0zz0.com^
 ||www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com^
 ||www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com^
 ||wwwccompletesecurityllc90-117server1.s0t.ru^
@@ -10784,6 +10777,7 @@
 ||xi.bep0ver7y.ru^
 ||xi.ko-8r.ru^
 ||xi.pl-8a.ru^
+||xiaoma-10021647.file.myqcloud.com^
 ||xib.deep5ky.ru^
 ||xifqen.imp0rttwi5t.ru^
 ||xingba888.today^
@@ -10856,6 +10850,7 @@
 ||xw.skysh1eld.ru^
 ||xword1.duckdns.org^
 ||xword3.duckdns.org^
+||xww.bucea.edu.cn^
 ||xx.stormf0rm.ru^
 ||xx6.ju8r.ru^
 ||xx8.alphacinder.digital^
