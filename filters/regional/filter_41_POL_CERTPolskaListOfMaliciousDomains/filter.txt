@@ -1,12 +1,25 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.1
+! Version: 1.1.23.2
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-18T21:07:45.668Z
+! Last modified: 2026-01-18T22:08:00.202Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||oponyonline.shop^
+||id301920-12.click^
+||allegrolokalnie.pls2gzahxt62xk.sbs^
+||unconcatac.rest^
+||josephlee.shop^
+||sculptvayak.com^
+||embrigamet.rest^
+||orcinteago.com^
+||simmonssamuel.shop^
+||vosavyi.com^
+||eldectomil.com^
+||faktowiec24.pl^
+||kourakater.com^
 ||obietangli.rest^
 ||syltheria.com^
 ||obrazmozaika.pl^
@@ -15,7 +28,6 @@
 ||draftkvf.com^
 ||mer-car.com.pl^
 ||alebrelok.pl^
-||www.faktowiec24.pl^
 ||ashdajskdas.site^
 ||bunkebarnd.rest^
 ||cryogsfati.rest^
@@ -98,7 +110,6 @@
 ||hotrgames.com^
 ||q8ocml.bond^
 ||disinrepud.rest^
-||www.josephlee.shop^
 ||yckj1234.com^
 ||www.saleoutletse.shop^
 ||92763ge.lol^
@@ -120746,5 +120757,3 @@
 ||www.diptyqueparis-eu.com^
 ||g8teff.icu^
 ||pl-oferta69483594.icu^
-||orientation-ping.vercel.app^
-||createxur.com^
