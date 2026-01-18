@@ -1,12 +1,35 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.22.97
+! Version: 1.1.22.98
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-18T17:07:59.375Z
+! Last modified: 2026-01-18T18:11:06.640Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||doroslap.bwpsites.com^
+||turenetouf.com^
+||www.groffa.shop^
+||nowhub.today^
+||intergalio.rest^
+||martinezandrew.shop^
+||brighdeaer.rest^
+||hayesashley.shop^
+||disegood.2ix.ch^
+||allegrolokalnie.pl-90136.icu^
+||impactexpand.com^
+||peverratee.rest^
+||allegrolokalnie.pl-oferta6831.cfd^
+||nowe-18-01-26-pl.top^
+||24denmark.today^
+||pathwaysurge.com^
+||vinted.post87684.cfd^
+||advancesurge.com^
+||7wbhey3.lol^
+||unitequest.com^
+||igniteexcel.com^
+||martinamanda.shop^
+||conucaduc.rest^
 ||unitesoar.com^
 ||vibeexpand.com^
 ||soarexpand.com^
@@ -120695,11 +120718,3 @@
 ||alebilet.pl-62189.cfd^
 ||olx.pl-62189.cfd^
 ||pl-oferta78346.icu^
-||kthn7knbaq.vioriedack.shop^
-||allegrolokalnie.72086.top^
-||alebilet.pl-oferta4891813.cfd^
-||allegro.pl-oferta4891813.cfd^
-||olx.pl-oferta4891813.cfd^
-||955df4b5.7bd708bb84b90a6dd9919447.workers.dev^
-||ikenpoli.4lima.de^
-||lsrael-shipyards.com^
