@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.22.35
+! Version: 1.0.22.36
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-01-18T11:06:46.505Z
+! Last modified: 2026-01-18T23:08:13.642Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -4034,7 +4034,7 @@
 ||ftpbd.com^
 ||ftpbd.net^
 ||ftuapps.dev^
-||tr.fuckbitcoin.xyz^
+||fuckbitcoin.xyz^
 ||fuckfbi.me^
 ||fucktimkuik.org^
 ||fudanedu.ru^
@@ -6100,6 +6100,7 @@
 ||masterkreatif.com^
 ||masterof13fps.com^
 ||masters-tb.com^
+||matchify.zip^
 ||mates-r-us.com^
 ||mathanosto.top^
 ||matrix-virovitica.com^
@@ -7159,6 +7160,7 @@
 ||obaflix.com^
 ||obala-tracker.net^
 ||oboom.io^
+||obstream.click^
 ||obzorovik.com^
 ||oceanofapk.com^
 ||oceanofepub.net^
@@ -8356,6 +8358,7 @@
 ||seez.su^
 ||mail.segso.net^
 ||bigfoot1942.sektori.org^
+||selcuksportshdc78e4a78c6.xyz^
 ||selezen.club^
 ||selezen.net^
 ||selezen.top^
@@ -9933,6 +9936,7 @@
 ||torrentproxies.com^
 ||torrentproxy.io^
 ||torrentqq27.com^
+||torrentqq403.com^
 ||torrentqq49.com^
 ||torrentqq71.com^
 ||torrentquest.com^
@@ -9974,8 +9978,10 @@
 ||torrentsmovies.net^
 ||torrentsnack.com^
 ||torrentsnipe.info^
+||torrentsome230.com^
 ||torrentspain.com^
 ||torrentspy.com^
+||torrenttip211.top^
 ||alpha.torrenttracker.nl^
 ||torrentturk.com^
 ||torrenttyphoon.com^
@@ -10938,6 +10944,7 @@
 ||9xdownloadz.vze.com^
 ||xzlist.vze.com^
 ||w-concept.com^
+||w8xc.shop^
 ||tracker.waaa.moe^
 ||wabotot.com^
 ||waffles.fm^
@@ -11330,7 +11337,7 @@
 ||xxxtor.net^
 ||xxxtorrent.net^
 ||xxxtorrents.pro^
-||bt1.xxxxbt.cc^
+||xxxxbt.cc^
 ||xyz566.com^
 ||xyzbooter.net^
 ||torrentum.y0.pl^
