@@ -1,12 +1,20 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.22.93
+! Version: 1.1.22.94
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-18T13:15:30.898Z
+! Last modified: 2026-01-18T14:07:48.361Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||helikon-texoutlets.com^
+||52wrfwff.lol^
+||autonnonma.rest^
+||simboimpig.rest^
+||patternlwxf.com^
+||vinted.post81661.cfd^
+||urbanwearhouse.top^
+||etralanika.com^
 ||www.eliksir-pl.com^
 ||oxx7opl.ga8gnp.cyou^
 ||booking.reservation-id962781.com^
@@ -120691,27 +120699,3 @@
 ||pl-rezerwacja203651.sbs^
 ||pl-rezerwacja203763.sbs^
 ||pl-rezerwacja283621.sbs^
-||gerkolsandes.top^
-||asdefcans.top^
-||vitae-beatae-sunt.top^
-||carpetstring.top^
-||consequaturquos.top^
-||foretrun.top^
-||vitaesapiente.top^
-||uanderfastest.top^
-||consequaturquaeest.top^
-||florenceartstudio.top^
-||leavenser.top^
-||consequaturlabore.top^
-||jellatlosan.top^
-||degrebonit.top^
-||h5tdrx.cyou^
-||pocztex.pl-j.top^
-||pocztex.pl-i.top^
-||pl-oferta59685945.cfd^
-||pl-oferta698356130.cfd^
-||allegro.pl-oferty9907808681.cfd^
-||brightstepsacademys.com^
-||pl-kategorie81823812834125.sbs^
-||pl-kategorie8127357636834.icu^
-||grow-line.info^
