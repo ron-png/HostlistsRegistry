@@ -1,12 +1,43 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.22.94
+! Version: 1.1.22.95
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-18T14:07:48.361Z
+! Last modified: 2026-01-18T15:07:57.703Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||sneakcanvas.top^
+||direkt-hotel-access.com^
+||room-chekin-direct.com^
+||hotel-chekin-portal.com^
+||fast-rooom-entry.com^
+||guestyresrvigate.com^
+||guesresvationgate.com^
+||room-direkt-checkin.com^
+||hotel-instnt-access.com^
+||hotel-entery-link.com^
+||proxenoventario.com^
+||youcloud-apartament.com^
+||factstream.today^
+||guest-quik-access.com^
+||headlinepulse.today^
+||fast-chekin-hotel.com^
+||guest-entery-hub.com^
+||dailybuzz.today^
+||room-acces-now.com^
+||travexonario.com^
+||secuer-hotel-entry.com^
+||eventradar.today^
+||quik-checkin-room.com^
+||lunexoventrix.com^
+||instnt-room-access.com^
+||storywave.today^
+||guesroom-direct.com^
+||xelonaventrix.com^
+||hotel-acces-link.com^
+||currentecho.today^
+||florideetoilehost.com^
 ||helikon-texoutlets.com^
 ||52wrfwff.lol^
 ||autonnonma.rest^
@@ -120680,22 +120711,3 @@
 ||focus-drive.info^
 ||talent-map.info^
 ||goal-power.info^
-||career-flow.info^
-||evolve-step.info^
-||brain-focus.info^
-||brain-boost.info^
-||drive-skill.info^
-||mind-guide.info^
-||alebilet.pl-87619.icu^
-||techneura.vercel.app^
-||qrjzpx.shop^
-||diverseshopoone.shop^
-||ol-xpaczka.szybkoibezpiecznie.sbs^
-||lnpost.paczkaposzla.site^
-||pocztex.pl-e.top^
-||bl-fb-drosan-tvn24.co^
-||allegrolokalnie.pl-kategorie8128373848128.sbs^
-||www.grdgf.shop^
-||pl-rezerwacja203651.sbs^
-||pl-rezerwacja203763.sbs^
-||pl-rezerwacja283621.sbs^

@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Gambling Blocklist
 ! Description: Blocks gambling content.
-! Version: 1.0.25.14
+! Version: 1.0.25.15
 ! Homepage: https://github.com/hagezi/dns-blocklists#gambling
-! Last modified: 2026-01-18T11:06:48.058Z
+! Last modified: 2026-01-18T15:07:47.395Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -54583,7 +54583,6 @@
 ||annapurnacasino.com^
 ||anninja.xyz^
 ||annsummerscasino.com^
-||ano88.app^
 ||ano88.top^
 ||anoboytotopastihengheng.com^
 ||anogame.com^
@@ -92062,7 +92061,6 @@
 ||e66614.com^
 ||e66615.com^
 ||e66626.com^
-||e66bets.com^
 ||e66navi.com^
 ||e6732.com^
 ||e688.com^
@@ -118472,7 +118470,6 @@
 ||kebontoto.com^
 ||kebun4dtop.com^
 ||kebunpoker.xyz^
-||kecapasin.fun^
 ||kecapmanis.site^
 ||kedai168juara.com^
 ||kedai168slots.com^
@@ -125353,7 +125350,6 @@
 ||lucky8casinosavis.com^
 ||lucky8ccasino.com^
 ||lucky8enlignecasino.net^
-||lucky8slots.com^
 ||lucky99.eu^
 ||lucky9slots.com^
 ||luckyaccesscasinoa.store^
@@ -135128,7 +135124,6 @@
 ||ninecasinoonline.org^
 ||ninecasinos.es^
 ||ninecasinos-italia.com^
-||ninecasinoslot.com^
 ||ninecasinovip.com^
 ||nines.casino^
 ||nines-casino.com^
@@ -157854,7 +157849,6 @@
 ||slotsnroll3.bond^
 ||slotsnroll4.bond^
 ||slotsnroll5.bond^
-||slotsnspins.com^
 ||slotsoasis.com^
 ||slotsocashpots.net^
 ||slotsoda.net^
@@ -163498,7 +163492,6 @@
 ||talkedinto.com^
 ||talkingstickresortandcasino.com^
 ||talkingstickscasino.com^
-||talkshow.bond^
 ||talksportbet.com^
 ||talos168.net^
 ||tama99.com^
@@ -164417,7 +164410,6 @@
 ||the-jozzcasino777.com^
 ||the-jozzcasino777.pro^
 ||the-lottery.info^
-||the-medical-project.com^
 ||the-neanderthal-tools.org^
 ||the-party-poker.info^
 ||the-phone-casino.uk^
@@ -180271,7 +180263,6 @@
 ||wz9745.com^
 ||wz9775.com^
 ||wz98.vip^
-||wzcbwz.com^
 ||wzq8.net^
 ||x.cc^
 ||x-casino.casino^
