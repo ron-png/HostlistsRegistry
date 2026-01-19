@@ -1,9 +1,9 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.3
+! Version: 1.1.23.4
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-19T00:39:21.176Z
+! Last modified: 2026-01-19T01:38:34.124Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -120747,25 +120747,3 @@
 ||s213pl.lol^
 ||www.vintedverification.com^
 ||s211pl.lol^
-||shareyourride.info^
-||cash4yourviews.info^
-||tanuy.pl^
-||actionpulse.info^
-||positivejoyinfo1170.info^
-||quiaevil.com^
-||theteensspeech.pl^
-||racinginsider.info^
-||froisim.com^
-||permaltv.pl^
-||safecommute.info^
-||tablerockangler.pl^
-||wtchnt.pl^
-||performswiftheavilythe-file.top^
-||columbiamortgageplace.com^
-||vita2.pl^
-||drawbox.info^
-||slmgjalxin.pl^
-||toglobalist.pl^
-||alebilet.pl-oferta677873.cfd^
-||allegro.pl-oferta677873.cfd^
-||olx.pl-oferta677873.cfd^
