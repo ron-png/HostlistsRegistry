@@ -1,12 +1,30 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.18
+! Version: 1.1.23.19
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-19T17:10:45.216Z
+! Last modified: 2026-01-19T18:12:41.114Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||formwlufn.com^
+||fioniamade.dk^
+||accanlesin.rest^
+||accaccess903-booking.com^
+||safeunit054-booking.com^
+||trustgate582-booking.com^
+||host.hotel-approve176219.com^
+||poemkdltb.com^
+||toolneig.cfd^
+||chma.digital^
+||lightueyvp.com^
+||cukurovauniforma.com^
+||sopraanody.rest^
+||gasrefineryinvest.com^
+||confirmid731-booking.com^
+||bonitetaktls.digital^
+||semizya0.com^
+||trustcontrol267-booking.com^
 ||yuyuupup.com^
 ||ciampperir.rest^
 ||draftusx.com^
@@ -121032,24 +121050,3 @@
 ||oferta0199531.pl^
 ||pl-29374.icu^
 ||pi-katlegoria-dom-l-ogvod-932c7v.shop^
-||allegrolokalnie.pl-oferta8885242.cfd^
-||allebilet.pl-oferta5089971.com^
-||allegrolokalne.pl-oferta5089971.com^
-||olx.pl-oferta5089971.com^
-||allegro.pl-oferta5089971.com^
-||allegrolokainie.pl-oferta5089971.com^
-||allegrolokalnie.pl-oferta5089971.com^
-||xn--albilet-b9a.pl-oferta5089971.com^
-||aiebilet.pl-oferta5089971.com^
-||alebilet.pl-oferta7885552442.cfd^
-||allegro.pl-oferta7885552442.cfd^
-||xn--albilet-b9a.pl-oferta7885552442.cfd^
-||allegrolokainie.pl-oferta7885552442.cfd^
-||allegrolokalne.pl-oferta7885552442.cfd^
-||olx.pl-oferta7885552442.cfd^
-||allebilet.pl-oferta7885552442.cfd^
-||aiebilet.pl-oferta7885552442.cfd^
-||alebilet.pl-oferta5089971.com^
-||pl-oferta4128015.cfd^
-||pi-katlegoria-sport-xc87v563.shop^
-||interiakastliveeresbrokers.com^
