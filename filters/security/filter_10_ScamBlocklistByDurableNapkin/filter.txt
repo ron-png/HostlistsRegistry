@@ -1,9 +1,9 @@
 !
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: List for blocking untrustworthy websites
-! Version: 1.0.19.55
+! Version: 1.0.19.56
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2026-01-18T06:12:26.978Z
+! Last modified: 2026-01-19T06:16:17.377Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -97,6 +97,7 @@
 ||bertasxt.com^
 ||best-torrents.com^
 ||bestiamos.com^
+||bestpriceonline.store^
 ||bestvod.pl^
 ||big-sale-warehouse.com^
 ||billboardwring.com^
@@ -195,7 +196,6 @@
 ||crocssalenz.com^
 ||crypto030.online^
 ||cryptot.net^
-||cshrewards.net^
 ||customizerbox.com^
 ||customurink.com^
 ||cutty.app^
@@ -221,7 +221,6 @@
 ||denatranotificacao.co^
 ||designbyus.online^
 ||desiupload.in^
-||detranboletim.co^
 ||devifoodgrains.com^
 ||dezpez.com^
 ||dieserbenni.ru^
@@ -520,7 +519,6 @@
 ||lozly.com^
 ||lucatee.com^
 ||lucidtiger.com^
-||lucysstyle.com^
 ||maebl.com^
 ||magnite.shop^
 ||mail-cytanet.pages.dev^
@@ -698,7 +696,6 @@
 ||pharaohstore.com^
 ||phgliders.com^
 ||philsshorthairorientalkittens.com^
-||phototan-cdirect.info^
 ||phototan.net^
 ||pinjamanelit.top^
 ||pinjamteman.top^
