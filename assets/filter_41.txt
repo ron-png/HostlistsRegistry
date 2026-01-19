@@ -1,12 +1,42 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.19
+! Version: 1.1.23.20
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-19T18:12:41.114Z
+! Last modified: 2026-01-19T19:08:58.091Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||stay-process-direct.com^
+||reservation-portal-easy.com^
+||reservation-helper.com^
+||guest-manager-portal.com^
+||hotel-guide-today.com^
+||hotel-service-desk.com^
+||guest-early-check.com^
+||bloomstudio-instituts.com^
+||holder046-booking.com^
+||emplois-competences.com^
+||room-process-easy.com^
+||your-stay-manager.com^
+||check-in-assistant.com^
+||aestatevillas.com^
+||hotel-portal-direct.com^
+||contedesti.rest^
+||nicesyu.com^
+||pl-account.info^
+||o6pen.info^
+||amentvgroup.com^
+||your-stay-details.com^
+||booking-service-desk.com^
+||checkin-manager-now.com^
+||felyniy.com^
+||stay-assistant-now.com^
+||yphys.cyou^
+||authstep119-booking.com^
+||parafricon.rest^
+||superchf.com^
+||checkin-welcome-guide.com^
 ||formwlufn.com^
 ||fioniamade.dk^
 ||accanlesin.rest^
@@ -121045,8 +121075,3 @@
 ||allegrolokalnie.pl-firmowe-328.icu^
 ||pl-kategorie1784057636834.icu^
 ||pl-kategorie8529372965.sbs^
-||pl-ogloszenia-firmowe-935124.icu^
-||oferta-764381.shop^
-||oferta0199531.pl^
-||pl-29374.icu^
-||pi-katlegoria-dom-l-ogvod-932c7v.shop^

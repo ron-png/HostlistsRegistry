@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.22.37
+! Version: 1.0.22.38
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-01-19T02:52:51.532Z
+! Last modified: 2026-01-19T19:08:46.285Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -2669,6 +2669,7 @@
 ||tracker3.dler.com^
 ||dlhd.click^
 ||dlhd.dad^
+||dlhd.link^
 ||dlpsgame.com^
 ||dlstream.com^
 ||dlxbgame.com^
@@ -5164,6 +5165,7 @@
 ||imzdl.com^
 ||anitube.in.ua^
 ||friends.in.ua^
+||inattv203.cfd^
 ||inattvgir-amp.xyz^
 ||incine.ru^
 ||inclouddrive.com^
@@ -9420,6 +9422,7 @@
 ||tb7.pl^
 ||tracker.tbkresources.org^
 ||tc-boxing.com^
+||tcbscans3.com^
 ||tracker.tcp.exchange^
 ||torrent.tdjs.tech^
 ||teach12.com^
@@ -9780,6 +9783,7 @@
 ||toromod.com^
 ||toros.co^
 ||torproxy.org^
+||torr9.com^
 ||torrage.info^
 ||torrends.to^
 ||torrent.ai^
@@ -10821,6 +10825,7 @@
 ||vidsrcme.su^
 ||vidstream.to^
 ||vidstreaming.io^
+||vidstrm.mom^
 ||vidto.me^
 ||vidtodo.com^
 ||viduplayer.com^
@@ -11525,6 +11530,7 @@
 ||z-lib.do^
 ||z-lib.fm^
 ||z-lib.org^
+||z-lib.sk^
 ||z-library.do^
 ||z-library.sk^
 ||z-shadow.co^
