@@ -1,9 +1,9 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.52.83
+! Version: 1.0.52.84
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-01-19T02:52:28.801Z
+! Last modified: 2026-01-19T04:28:48.750Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -6529,6 +6529,7 @@ vkcdnservice.appspot.com^
 ||4a4c8a3bdd.com^
 ||4afe4f94c5.com^
 ||4armn.com^
+||4b246mtpc5q6x5632r9.cfd^
 ||4b9mqc5kcl3wp67uih2q6q9.cfd^
 ||4ba48a7822.com^
 ||4bc588417b.com^
@@ -10389,6 +10390,7 @@ vkcdnservice.appspot.com^
 ||bantamsonefold.com^
 ||baoabplcyspdf.website^
 ||baohkgpwemaur.store^
+||baovfrleppybg.space^
 ||bapoomsupurooph.net^
 ||bapouwoakoa.net^
 ||baptizespadeaccompanying.com^
@@ -12176,6 +12178,7 @@ vkcdnservice.appspot.com^
 ||buffyalboin.cyou^
 ||bufyiggmqdivt.site^
 ||bugaruche.com^
+||bugbanebasinsfluters.cfd^
 ||bugdt-ica.rocks^
 ||buggerswaka.qpon^
 ||buggessrefreshfanwe.cyou^
@@ -22315,6 +22318,7 @@ vkcdnservice.appspot.com^
 ||gringosbrocket.cfd^
 ||grinnedflandan.help^
 ||griphusveneti.cyou^
+||grippestropary.com^
 ||gripping-bread.com^
 ||grippingdelay.com^
 ||gripsalrebsoali.net^
@@ -23129,6 +23133,7 @@ vkcdnservice.appspot.com^
 ||hdjsvkvqhfvdb.space^
 ||hdkokhzvalbxn.tech^
 ||hdkpdrzcvooaz.online^
+||hdlibkddkahdwl.com^
 ||hdmmkguxvsfrl.site^
 ||hdoditwa.xyz^
 ||hdowamsiyeibv.online^
@@ -24121,6 +24126,7 @@ vkcdnservice.appspot.com^
 ||hucmourtee.net^
 ||hucnfoxgiirbw.online^
 ||hudmmxrbwnbwl.fun^
+||hudupxzcaltnp.space^
 ||hue11.com^
 ||hue2b.com^
 ||hueadsxml.com^
@@ -24436,6 +24442,7 @@ vkcdnservice.appspot.com^
 ||iaueciftevwbn.website^
 ||iaukmlastitytyeast.com^
 ||iauvngcowqhzi.online^
+||iavgecjw.com^
 ||iaxitnxmakuso.store^
 ||iaypoeqfvxfqg.site^
 ||iazcpoptkwapp.store^
@@ -24733,6 +24740,7 @@ vkcdnservice.appspot.com^
 ||iijwomwwwfhrz.online^
 ||iijyrnrxflbvn.store^
 ||iikok6qiwg15xfpx.cfd^
+||iilvrehcfgvkj.online^
 ||iiouzpgmqpftg.website^
 ||iiqetnbmcls.net^
 ||iiqkuzdjjregw.website^
@@ -27853,6 +27861,7 @@ vkcdnservice.appspot.com^
 ||ktpyccaylwkmy.website^
 ||ktrgtteucxzzu.website^
 ||ktsnqchncbimr.space^
+||ktvpruhuatopsd.xyz^
 ||ktvsluqtriskv.online^
 ||ktwojdxabmh.com^
 ||ktxdyoptkircd.website^
@@ -29941,6 +29950,7 @@ vkcdnservice.appspot.com^
 ||manoareca.cyou^
 ||manominsurwan.cyou^
 ||manorowlapprehension.com^
+||manqueeaerialincuses.cyou^
 ||manrec.cc^
 ||manropelegati.qpon^
 ||mansionappointmentmoon.com^
@@ -31817,6 +31827,7 @@ vkcdnservice.appspot.com^
 ||nagrande.com^
 ||nahrsvtslfjzz.site^
 ||nahuaesnecy.help^
+||nahuatlcodens.com^
 ||naillimity.click^
 ||naineethehe.net^
 ||naipachevoapt.net^
@@ -41243,6 +41254,7 @@ vkcdnservice.appspot.com^
 ||sfulylydeveloped.org^
 ||sfupiqqwhxoxl.website^
 ||sfvauwpjcdgfo.xyz^
+||sfwooqycqjrca.online^
 ||sfwupoxzuurva.space^
 ||sfwwzmtlhrajx.website^
 ||sfxdifdabwsux.site^
@@ -42230,6 +42242,7 @@ vkcdnservice.appspot.com^
 ||sonsstoop.com^
 ||sonyzetuxx.com^
 ||soocaips.com^
+||soocdwmfovrkq.space^
 ||soodledchase.qpon^
 ||soodleenami.cfd^
 ||soogigopapsaru.net^
@@ -45991,6 +46004,7 @@ vkcdnservice.appspot.com^
 ||umzwmufdxrcrf.site^
 ||unaces.com^
 ||unactkiosk.com^
+||unaitrey.shop^
 ||unakinloggin.com^
 ||unanimousinflammableboxing.com^
 ||unanimouslytackytraumatize.com^
@@ -46688,6 +46702,7 @@ vkcdnservice.appspot.com^
 ||uwamtkhzhlpyl.online^
 ||uwauarphjaflw.website^
 ||uwbqwgzobxpqi.site^
+||uwemasfpdgnrj.site^
 ||uwfsrubjqlibq.store^
 ||uwgkkegilvrnqwu.com^
 ||uwhevailoo.net^
@@ -102168,6 +102183,11 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||event-storage.netmonet.co^
+||neviju.netmonet.co^
+||jaeger.netmonet.co^
+||wap.wovn.io^
+||falcon.useinsider.com^
 ||sp.pluto.tv^
 ||service-ad-image-ga-weighted.prd.pluto.tv^
 ||tracking.carfax.com^
