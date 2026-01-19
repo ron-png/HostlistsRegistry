@@ -1,12 +1,41 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.16
+! Version: 1.1.23.17
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-19T15:11:37.632Z
+! Last modified: 2026-01-19T16:11:38.984Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||trigodecol.rest^
+||notionlovers.com^
+||calm-shape-8c77.emirates-e0c.workers.dev^
+||infofi7eld.info^
+||direct-hotel-guestt.com^
+||instant-chekin-portal.com^
+||next9engine.info^
+||nondeextra.rest^
+||shefeilion.com^
+||instashort.cyou^
+||hotel-guest-portall.com^
+||vanulynuze.digital^
+||violitycollectmy.com^
+||trimmallum.rest^
+||ansuptyraing.com^
+||myerstore.net^
+||moglichkeiten.com^
+||secur-hotel-guestt.com^
+||quick-acess-stay.com^
+||excelfinding.com^
+||guest-quik-acesss.com^
+||informazionelibera.com^
+||geavoj.org^
+||claroscuroenrollables.com^
+||acces-my-hotel-rooom.com^
+||reservstatusaprovalnow.com^
+||hotel-guest-veriffy.com^
+||f5qxsi.hair^
+||updtaeaccntwebgasdoigyoirysdfghea.dfhrut6jsdeter.biz.id^
 ||guest-entries-hub.com^
 ||movieawobija.top^
 ||reservstatusaprovaltoday.com^
@@ -121131,23 +121160,3 @@
 ||alebilet.pl-oferta8885242.cfd^
 ||allebilet.pl-oferta8885242.cfd^
 ||allegrolokainie.pl-oferta8885242.cfd^
-||aiebilet.pl-oferta8885242.cfd^
-||xn--albilet-b9a.pl-oferta8885242.cfd^
-||allegro.pl-oferta8885242.cfd^
-||allegrolokalne.pl-oferta8885242.cfd^
-||olx.pl-oferta8885242.cfd^
-||allegrolokalnie.pl-oferta6788245.cfd^
-||nodekas.com^
-||belta.top^
-||triorisawe.vercel.app^
-||allegrolokalnie.p1-59285742.rest^
-||futurateq.vercel.app^
-||allegrolokalnie.pl-25494.com^
-||ku5ihq.top^
-||exogenixa.vercel.app^
-||pl-oferta836285432.com^
-||alebilet.pl-972362.icu^
-||allegro.pl-972362.icu^
-||allegrolokalnie.pl-972362.icu^
-||pl-oferta9176391.icu^
-||olx.pl-972362.icu^
