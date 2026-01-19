@@ -1,12 +1,42 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.21
+! Version: 1.1.23.22
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-19T20:09:48.807Z
+! Last modified: 2026-01-19T21:08:18.841Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||hotel-services-portal.com^
+||allegrokalnie.pl-39834.sbs^
+||impeoswabb.rest^
+||kapitalnarodowy.com^
+||nanocorediital.com^
+||www.feltbicyclesshop.com^
+||syntechworks.com^
+||swapmovex.top^
+||paedotrebl.rest^
+||framep1rog.info^
+||globalinvestlink.com^
+||wealthcapitalflow.com^
+||ventureinvestmaster.com^
+||www.accuontcennter.site^
+||m6q1yb.lol^
+||olx.pl-smart32423.pl^
+||smartinvestflow.com^
+||c7u0df.sbs^
+||hukycoi.com^
+||allegrolokalnie.pl-933033.icu^
+||kapitalinfo24.com^
+||j6gjyn.bond^
+||werinkomanie.com^
+||pinzatrink.rest^
+||najanudiffi.rest^
+||btfgyjmx.net-platnosc.shop^
+||wcoll.cyou^
+||cdkaf331rk.xyz^
+||bestindonesia.icu^
+||ashshshsj.sbs^
 ||arbresapalabres.com^
 ||ceoclubsinternational.com^
 ||hotel-details-now.com^
@@ -121082,7 +121112,3 @@
 ||pl-oferta365743.sbs^
 ||pl-kategorie123731178123.shop^
 ||pl-oferta427921.icu^
-||orbitalync.vercel.app^
-||pl-kategorie8812737590.icu^
-||bafybeicv64z2jxzrvsxa2oiy4bfxvtzeimiqtrmbjoifsb5m5fdoy6uu4a.ipfs.dweb.link^
-||www.my-disneyplus.com.e-pay.de.com^
