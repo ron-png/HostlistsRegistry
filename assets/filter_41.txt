@@ -1,12 +1,63 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.15
+! Version: 1.1.23.16
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-19T14:13:30.658Z
+! Last modified: 2026-01-19T15:11:37.632Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||guest-entries-hub.com^
+||movieawobija.top^
+||reservstatusaprovaltoday.com^
+||booking.confirm-id685417.com^
+||stewartcharles.shop^
+||versitech.rest^
+||davepharmacist.com^
+||exotichotdogs.com^
+||yoptennisacademy.com^
+||barbarabombshell.com^
+||barbecuelodges.com^
+||hotnichetrends.com^
+||yidiruqad.top^
+||krincolisi.com^
+||livescore-in-mobile.com^
+||fikovitivo.com^
+||dusk-wisp.com^
+||hyper9shift.info^
+||objetivo14.com^
+||isgdpost.top^
+||lev3elbit.info^
+||minlotern.com^
+||gethisitez.com^
+||moja-paczka.vizekanli.cfd^
+||me-goodall.com^
+||couturecove.top^
+||ln6ost.hp5wui.hair^
+||vesulasits.com^
+||gat7e.info^
+||apparcontr.rest^
+||kidsgobags.com^
+||convedoble.pro^
+||viralapp.net^
+||eromeofficial.online^
+||derbyshirect.org^
+||dancing-diggers.com^
+||cambrianbusiness.com^
+||yudealuminyum.com^
+||cumbrialaw.com^
+||santiferres.com^
+||ponferrada24horas.com^
+||smartcomunidad.com^
+||turidominican.com^
+||prueba-servidor.com^
+||perfilempresaaimode.com^
+||techos-moviles.com^
+||silk-routeaerospace.com^
+||institutodeeducacioncontinua.com^
+||silviabot.com^
+||transporteslgc.com^
+||itsvanaubeda.com^
 ||f4ast.info^
 ||inrpostal.top^
 ||custoaccaf.rest^
@@ -762,7 +813,6 @@
 ||repairslogo.plainkeyman.com^
 ||nowe-17-01-26-pl.top^
 ||gues-reservationhub.com^
-||www.stewartcharles.shop^
 ||sissianale.rest^
 ||booking.reservation-id692018.com^
 ||settaconfr.rest^
@@ -121101,7 +121151,3 @@
 ||allegrolokalnie.pl-972362.icu^
 ||pl-oferta9176391.icu^
 ||olx.pl-972362.icu^
-||grandpromo.xyz^
-||olx.pl-oferta947463.cfd^
-||pl-kategorie61273781.sbs^
-||pl-ogloszenia-firmowe-83281.cfd^
