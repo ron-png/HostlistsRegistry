@@ -1,12 +1,57 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.14
+! Version: 1.1.23.15
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-19T13:23:22.378Z
+! Last modified: 2026-01-19T14:13:30.658Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||f4ast.info^
+||inrpostal.top^
+||custoaccaf.rest^
+||deco95.com^
+||l4evelwide.info^
+||inposc.top^
+||styleflare.top^
+||quenadietepongalimites.com^
+||sahagun24horas.com^
+||stylourbanomoda.com^
+||terapiastrisquel.com^
+||relitclinic.com^
+||nowe-19-01-26-pl.top^
+||plagesguadeloupe.com^
+||dostowar-0lx-56361.top^
+||osteopatiaparaperros.com^
+||it1epn.bond^
+||sikologic.com^
+||smphomeliving.com^
+||sound-top.store^
+||drawwuab.com^
+||jeraque.com^
+||dazzling-suds.com^
+||pictolaiti.com^
+||ltexhp.net-platnosc.shop^
+||ringalead.tm3ai.com^
+||news15pl.convertri.com^
+||mataatuegoderisa.com^
+||comounpro.com^
+||revolucionetwork.com^
+||arkansasbusinessconnection.com^
+||orihuelatupuebloyelmio.com^
+||lobudue.com^
+||pira-frame.com^
+||lagibeliyi.com^
+||bufdnrg.info^
+||ewaco.pl^
+||www.dalygai.com^
+||climarobuj.ink^
+||yallaestate.com^
+||inmobiliariasbarriodesalamanca.com^
+||invalsciop.rest^
+||the-guests-visits.com^
+||staff-digivam.com^
+||nidyxyi0.com^
 ||distecrene.rest^
 ||stylecrate.top^
 ||mozliwosci-pl-1.com^
@@ -121060,11 +121105,3 @@
 ||olx.pl-oferta947463.cfd^
 ||pl-kategorie61273781.sbs^
 ||pl-ogloszenia-firmowe-83281.cfd^
-||realmscurious.lat^
-||2nuji.sbs^
-||ntfxsav.com^
-||oferta-739125.shop^
-||bafybeiffk3g3vvltfqhyoike64eid7uwdtae5zlurzzq4tfg7edgdx7ipm.ipfs.dweb.link^
-||3hbvjh3.sbs^
-||nanotronq.vercel.app^
-||cekerom.com^
