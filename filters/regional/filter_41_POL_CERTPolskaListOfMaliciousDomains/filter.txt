@@ -1,12 +1,64 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.13
+! Version: 1.1.23.14
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-19T12:16:19.970Z
+! Last modified: 2026-01-19T13:23:22.378Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||distecrene.rest^
+||stylecrate.top^
+||mozliwosci-pl-1.com^
+||xalurxojup.cyou^
+||cprahaclub.digital^
+||incedjulie.rest^
+||mybooking.gate-reservation.com^
+||silentspire.com^
+||skinflowln.info^
+||quietwaveln.info^
+||fie5ld.info^
+||optirankapp.com^
+||prtyedu.com^
+||stockdj.com^
+||semagichands.com^
+||herenciagestion.com^
+||epgunp.com^
+||sextgateln.info^
+||beloutfits.com^
+||caminodelqueso.com^
+||canalempresa.com^
+||marinasansalvador.com^
+||mammoaerof.rest^
+||discasest.digital^
+||inrpostl.top^
+||stalydochod.fun^
+||dusk5.com^
+||expan2d.info^
+||sprawdzajtutaj.online^
+||wordpressforum.org^
+||spiritofgone.blog^
+||obitinpeace.blog^
+||sunsetinsoul.blog^
+||twojaszansai.com^
+||designznj.com^
+||stylehxl.com^
+||sculptzpqt.com^
+||www.saleclothings.shop^
+||framezpaiv.com^
+||radiocommunityvoice.blog^
+||buildbrpmt.com^
+||srvic.online^
+||wemonitorsites.online^
+||designvmh.com^
+||grupocristalum.com^
+||fitoestinger.com^
+||agujaypincel.com^
+||asistentevirtualdigital.com^
+||lifesaverscondos.com^
+||soulsinvacum.blog^
+||streetcornernews.blog^
+||remembranceservice.blog^
 ||bodaeventosmadrid.com^
 ||ecogranjateijeiro.com^
 ||alfabetizacionia.com^
@@ -121016,8 +121068,3 @@
 ||3hbvjh3.sbs^
 ||nanotronq.vercel.app^
 ||cekerom.com^
-||pl-oferta436381.icu^
-||alebilet.pl-oferta947463.cfd^
-||allegrolokalnie.pl-oferta947463.cfd^
-||pi-8923-id3286-id11b7fv-pl-cid99-id14zpi-85.sbs^
-||allegro.pl-oferta947463.cfd^
