@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
-! Version: 1.0.22.36
+! Version: 1.0.22.37
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2026-01-18T23:08:13.642Z
+! Last modified: 2026-01-19T02:52:51.532Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -2088,6 +2088,7 @@
 ||coexist.biz^
 ||coflix.tv^
 ||coldplaybootlegs.com^
+||colivioo.com^
 ||colombo-bt.org^
 ||123movies.com.pk^
 ||www.aenianos.com.br^
@@ -2390,6 +2391,7 @@
 ||cutercounter.com^
 ||cuteyhoneyflash.de^
 ||tracker.cutie.dating^
+||tracker-de-2.cutie.dating^
 ||cutiegirl.ru^
 ||cwer.ru^
 ||cwer.ws^

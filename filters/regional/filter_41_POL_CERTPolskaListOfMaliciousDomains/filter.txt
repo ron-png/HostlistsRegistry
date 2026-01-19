@@ -1,12 +1,39 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.4
+! Version: 1.1.23.5
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-19T01:38:34.124Z
+! Last modified: 2026-01-19T02:53:02.996Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||tgfukredreyrtujfgdf.com^
+||ripioaffan.rest^
+||app-aol.com^
+||app-duckduckgo.com^
+||allegrolokalnie.pl-oferta84911-apple-ipad-m4-pro.cfd^
+||symbiontix.com^
+||kiessscard.rest^
+||diazanthony.shop^
+||doz-pl.top^
+||doz.sklepbiegacza.shop^
+||mail.eustach.com^
+||pedanadden.rest^
+||mercerforpresident2008.com^
+||solleolezz.rest^
+||gainoscale.com^
+||lidenoiwnwa.clan.rip^
+||phytoeccel.rest^
+||id8374.pl^
+||reqdtidisas.rest^
+||syncpnlintloowmedoweogmwekm.bueasdkme1.biz.id^
+||vorcanther.info^
+||oferty-43kvro3o2-wyprzedaz-zimowa-2026.sbs^
+||negreyuftni.rest^
+||mydisneypluspl.com^
+||pousos.com^
+||loottilthy.world^
+||thrynixflow.com^
 ||pancrabdic.rest^
 ||vinciritag.rest^
 ||strinincav.rest^
