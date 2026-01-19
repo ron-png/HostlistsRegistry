@@ -1,12 +1,76 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.12
+! Version: 1.1.23.13
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-19T11:09:52.333Z
+! Last modified: 2026-01-19T12:16:19.970Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||bodaeventosmadrid.com^
+||ecogranjateijeiro.com^
+||alfabetizacionia.com^
+||academiepamplona.com^
+||theinvestingdad.com^
+||allegrolokalnie.oferty-proponowane-dla-ciebie-2774622.sbs^
+||tuwequt.online^
+||sovranastu.rest^
+||tsfintechsolutions.com^
+||werbaaml.com^
+||ne4ondrive.info^
+||createbxlsh.com^
+||gvdqkm.net-platnosc.shop^
+||nightofmercy.org^
+||riverofpeace.blog^
+||neighborhoodchronicle.blog^
+||nextdoornews.blog^
+||soulinbloom.blog^
+||lashbystudio.com^
+||pathtostill.blog^
+||obitsinwonderland.blog^
+||obitoflight.blog^
+||alca-designs.com^
+||elsotanodecoracion.com^
+||gipuzkoaite.com^
+||freehabitat.com^
+||caminodelafuente.com^
+||arrocerialaisla.com^
+||escapemotor.com^
+||cgverso.com^
+||creatiatalento.com^
+||fpavanzada.com^
+||amigospeludosonline.com^
+||op2t.info^
+||petalofgrace.blog^
+||enacoribel.com^
+||jprz-qmdx-biz17-vhkl-ntsa-sp1ct.netlify.app^
+||evapazreyenglish.com^
+||gaficas.com^
+||brandonmgames.com^
+||chloemoda.com^
+||www.tooles-sklep.shop^
+||hunoducate.com^
+||alebilet.62880.click^
+||alebilet.53468.sbs^
+||alebilet.852109.click^
+||fernandaprieto.com^
+||sketchmzz.com^
+||phioerinky.com^
+||cashpiscines.xyz^
+||colorzhuip.com^
+||singlecoreln.info^
+||savagemedolls.com^
+||nonphunado.rest^
+||framexdn.com^
+||regionalroundup.blog^
+||780232.weebly.com^
+||iffesmatec.com^
+||createtbn.com^
+||celladhess.com^
+||dololoriot.com^
+||paholialia.com^
+||vertex-capital-zone.com^
+||quantum-dynamicss.com^
 ||icemancoreln.info^
 ||start.techglobridge.top^
 ||vitripassa.rest^
@@ -120957,7 +121021,3 @@
 ||allegrolokalnie.pl-oferta947463.cfd^
 ||pi-8923-id3286-id11b7fv-pl-cid99-id14zpi-85.sbs^
 ||allegro.pl-oferta947463.cfd^
-||alebilet.id3291.pl^
-||rasevya.com^
-||oferta150125121.sbs^
-||telegtqew.ren^
