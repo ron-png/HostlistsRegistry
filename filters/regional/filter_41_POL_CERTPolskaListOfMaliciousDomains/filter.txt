@@ -1,12 +1,13 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.5
+! Version: 1.1.23.6
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-19T02:53:02.996Z
+! Last modified: 2026-01-19T03:40:46.868Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||sospedisbe.rest^
 ||tgfukredreyrtujfgdf.com^
 ||ripioaffan.rest^
 ||app-aol.com^
@@ -120758,19 +120759,3 @@
 ||apptechdesigns.com^
 ||soulamaliz.pro^
 ||softscheckapac.com^
-||s218pl.lol^
-||azeet-printer.xyz^
-||app.getrespoonse.com^
-||s207pl.lol^
-||sportagey.com^
-||s219pl.lol^
-||s201pl.lol^
-||s217pl.lol^
-||s210pl.lol^
-||viengthong-pharma.xyz^
-||s212pl.lol^
-||poczta.polska-zaplata.info^
-||poczta-polska.pl-pmnt.info^
-||s213pl.lol^
-||www.vintedverification.com^
-||s211pl.lol^
