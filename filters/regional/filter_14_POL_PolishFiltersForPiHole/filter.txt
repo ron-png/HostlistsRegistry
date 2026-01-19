@@ -1,9 +1,9 @@
 !
 ! Title: POL: Polish filters for Pi-hole
 ! Description: Polish filters for Pi-hole.
-! Version: 1.0.14.81
+! Version: 1.0.14.82
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2026-01-15T07:12:01.716Z
+! Last modified: 2026-01-19T11:09:42.879Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -321,3 +321,4 @@
 ||buzzlink.co^
 ||apteline-pl.shop^
 ||azovona.com^
+||tourpariz.net^
