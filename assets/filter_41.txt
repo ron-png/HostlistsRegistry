@@ -1,12 +1,41 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.20
+! Version: 1.1.23.21
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-19T19:08:58.091Z
+! Last modified: 2026-01-19T20:09:48.807Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||arbresapalabres.com^
+||ceoclubsinternational.com^
+||hotel-details-now.com^
+||stay-info-direct.com^
+||room-ready-notify.com^
+||your-hotel-service.com^
+||reservation-help-today.com^
+||safar-jojo.com^
+||drivadains.site^
+||koniotrile.com^
+||twojaiszansa.com^
+||novelyxe.com^
+||frand-gaga.com^
+||taseatmery.com^
+||globixa.online^
+||bidientowe.com^
+||otoliscery.com^
+||redcrosscapital.com^
+||futureinvestwave.com^
+||informacatalana.com^
+||leasnotare.com^
+||twojiwyborone.com^
+||clonivemir.com^
+||crow-force.com^
+||gavazcutch.rest^
+||brushcrafx.com^
+||azurordi.com^
+||aitech-mali.com^
+||beverlyhillsluxuryride.com^
 ||stay-process-direct.com^
 ||reservation-portal-easy.com^
 ||reservation-helper.com^
@@ -121057,21 +121086,3 @@
 ||pl-kategorie8812737590.icu^
 ||bafybeicv64z2jxzrvsxa2oiy4bfxvtzeimiqtrmbjoifsb5m5fdoy6uu4a.ipfs.dweb.link^
 ||www.my-disneyplus.com.e-pay.de.com^
-||bafybeiebqokeja3s7wzbp7kvvyulcxotmkcdknjsne6innz37qhvtb42ui.ipfs.dweb.link^
-||topnewsinhour.com^
-||fascinationfeedinfo.com^
-||focusedcurrentevents.com^
-||thenewsdailyvault.com^
-||longipolys.pro^
-||brwfurniture-pl.shop^
-||webnewseverywhere.com^
-||guestverify5116-booking.com^
-||misinformationbot.com^
-||networkspotlightroom.com^
-||safereading.pro^
-||sfwadf.icu^
-||allegrolokalnie.pl-85943.com^
-||sagamzooph.pro^
-||allegrolokalnie.pl-firmowe-328.icu^
-||pl-kategorie1784057636834.icu^
-||pl-kategorie8529372965.sbs^
