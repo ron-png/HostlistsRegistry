@@ -1,12 +1,13 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.23
+! Version: 1.1.23.24
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-19T22:08:53.211Z
+! Last modified: 2026-01-19T23:08:29.370Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||cartecatho.rest^
 ||booking-process-help.com^
 ||verefication.click^
 ||lopezisabella.shop^
@@ -121092,46 +121093,3 @@
 ||pge.mojawebka.eu^
 ||pl-ogloszenia-firmowe-92193.cfd^
 ||fusionprime9global.store^
-||wildpixel.online^
-||taskroomy.com^
-||digitalshocy.com^
-||visionframework.info^
-||nodejoyz.top^
-||pocztapl.cloudplatformabezpiecznychprzelewow24systeminfo.sbs^
-||cloudplatformabezpiecznychprzelewow24systeminfo.shop^
-||personalfeednews.pro^
-||zootofuggi.pro^
-||inconerump.pro^
-||securetransaction24wygodnaplatnosc24h.sbs^
-||securetransaction24wygodnaplatnosc24h.icu^
-||transferuk.com^
-||topsectionnews.pro^
-||airbagsandabs.info^
-||theveryarticle.pro^
-||vikingga.com^
-||ezy-stores.com^
-||goldcashltd.com^
-||doroos-edu.com^
-||cityservicetrading.com^
-||contratar-me.com^
-||linkfusiong6lobal.online^
-||drivegroupgroup.space^
-||logiccloudfusi9on.online^
-||globallink5group.space^
-||fusi9ondrivepost.store^
-||logicclickdrive.space^
-||sy0stemdataprime.online^
-||directdirectb3yte.store^
-||securepos9tsmart.online^
-||primenextdirec8t.store^
-||safel3ogicdirect.space^
-||groupt1racksecure.store^
-||globa3llogicprime.store^
-||pulselogicsmar7t.online^
-||olx.pl-oferta635729.icu^
-||alebilet.pl-oferta635729.icu^
-||allegrolokalnie.pl-oferta635729.icu^
-||allegro.pl-oferta635729.icu^
-||pl-oferta365743.sbs^
-||pl-kategorie123731178123.shop^
-||pl-oferta427921.icu^
