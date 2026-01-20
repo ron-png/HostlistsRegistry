@@ -1,12 +1,56 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.37
+! Version: 1.1.23.38
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-20T13:24:06.135Z
+! Last modified: 2026-01-20T14:14:51.983Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||nugigyo.com^
+||patternmpuun.com^
+||grut.top^
+||cignestorc.rest^
+||sillageag.info^
+||dommediaries.com^
+||onswansandsoftware.com^
+||sellgoldeagles.com^
+||readycost.com^
+||guidebuzzer.com^
+||reakshonex.com^
+||guillermoamador.com^
+||rightdirectioncounselingllc.com^
+||rydirect.com^
+||onlinenepalshopping.com^
+||studentcampo.com^
+||domdiaries.com^
+||totaldiscountshop.com^
+||domainssupertools.com^
+||upassi.cyou^
+||jideiuhe.info^
+||www.kauflond.shop^
+||allegrolokalnie.pv34of23ic.sbs^
+||cheliricci.rest^
+||macedona2026update.b-cdn.net^
+||the-guests-visit.com^
+||onlineshoppingsystems.com^
+||recaptcha-metabusiness.media^
+||guide2oc.com^
+||realestatematterstoday.com^
+||handymenchair.com^
+||rightfootstartups.com^
+||elaphgroup.com^
+||talktexanbbq.com^
+||picnictrade.com^
+||twilighthotelandbar.com^
+||proprinotes.com^
+||tostadachips.com^
+||trigrams.com^
+||disex-mali.com^
+||7dejuliosanfermin.com^
+||www.jakostore.club^
+||me-daygood.com^
+||crimsonwolfventures.online^
 ||cablealertsgrid.com^
 ||ejargroup.com^
 ||paintbsxe.com^
@@ -121444,6 +121488,3 @@
 ||pl-kategorie0045157648834.icu^
 ||pl-oferta627954.icu^
 ||oferta4642331243.com^
-||pl-94134.cfd^
-||security-checkify.cfolks.pl^
-||service-completeshiptranst.cfolks.pl^

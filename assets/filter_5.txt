@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.87.92
+! Version: 1.0.87.93
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-01-20T13:23:43.368Z
+! Last modified: 2026-01-20T14:14:30.939Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1077,7 +1077,6 @@
 ||56gbgkvtd.xyz^
 ||56rt2692.de^
 ||5707f9766c.com^
-||572c52928b.com^
 ||57352d918d.com^
 ||57473094.xyz^
 ||57573zubo36833.com^
@@ -2032,7 +2031,6 @@
 ||a8ab9e490d.a188a76155.com^
 ||a8aebc73ca.com^
 ||a8bea9eb5d.com^
-||a8e8c59504.com^
 ||a8h4zhbmxi.com^
 ||a9562f872f.com^
 ||a962171d52.4e47af880e.com^
@@ -7266,7 +7264,6 @@
 ||ayarkkbmakkja.top^
 ||ayarkkbmakmzv.top^
 ||ayarkkyjrmjjj.top^
-||ayarkkyjrmjzr.top^
 ||aycompleted.com^
 ||aycrxa.com^
 ||ayctbhlndyarx.space^
@@ -7740,7 +7737,6 @@
 ||baskettexture.com^
 ||bass.alfrednerstu.com^
 ||bass.goulet.dev^
-||bass.taivo.ai^
 ||bastardnonethelessuseless.com^
 ||bastilecentimo.rest^
 ||bat.bing.com^
@@ -8817,7 +8813,6 @@
 ||bounceads.net^
 ||bouncelightenafternoon.com^
 ||bouncerepresentative.com^
-||bouncerglovers.click^
 ||bouncetumblemarried.com^
 ||bouncy-ask.pro^
 ||boundarygoose.com^
@@ -9535,7 +9530,6 @@
 ||c7ca525b2e.0491166852.com^
 ||c7f4d1276e.com^
 ||c7o9xp4e4.com^
-||c8.net.ua^
 ||c81.ipanocloud.com^
 ||c84c10fe3d.com^
 ||c86b0b03c7.eb8ac65cf5.com^
@@ -14619,7 +14613,6 @@
 ||desgolurkom.com^
 ||deshelioptiletor.com^
 ||designbin.lol^
-||designerlace.shop^
 ||designsprovidingstifle.com^
 ||designstraw.info^
 ||desirebucket.com^
@@ -15794,7 +15787,6 @@
 ||dualstack-collection.rong-edge.com^
 ||dualstack-logs.amap.com^
 ||dualweekend.pro^
-||duamilsyr.com^
 ||dubberlibers.shop^
 ||dubioalcaaba.world^
 ||dubiousneedleaccounts.com^
@@ -18453,7 +18445,6 @@
 ||finddatinglocally.com^
 ||finder2024.com^
 ||findgirlsdream.com^
-||findgirlsflirting.com^
 ||findingexchange.com^
 ||findmanloverse.com^
 ||findpartnerthefinder.com^
@@ -24142,7 +24133,6 @@
 ||js.gov.cfd^
 ||js.jnkstff.com^
 ||js.kabutocho-dsp.net^
-||js.kakuyomu.in^
 ||js.kcolb.site^
 ||js.kkraw.com^
 ||js.manga1000.top^
@@ -24501,7 +24491,6 @@
 ||kcldlqybhdgdk.site^
 ||kcokamid.top^
 ||kcqbrwygxixdh.site^
-||kcqstn35as.com^
 ||kctag.net^
 ||kcxljicqwzjfd.space^
 ||kcxumzypnrqwr.store^
@@ -24745,7 +24734,6 @@
 ||kklq05131p0i.com^
 ||kklq05140p0i.com^
 ||kkluibrulalda.website^
-||kklwfbtomvzdt.site^
 ||kkmacsqsbf.info^
 ||kkqlcvwqbajec.website^
 ||kksbhdknogzya.website^
@@ -26822,7 +26810,6 @@
 ||luminouscountry.pro^
 ||luminousrev.com^
 ||luminousselection.pro^
-||luminoustry.com^
 ||luminoususe.pro^
 ||lumktmjeeewwy.website^
 ||lumpyactive.com^
@@ -26969,7 +26956,6 @@
 ||lywfwxeexwcwc.online^
 ||lyyyupftoqfoz.site^
 ||lz-pub-ads.com^
-||lzbgeg.com^
 ||lzbwprvfzvbdx.website^
 ||lzjl.com^
 ||lzljxgqazegmr.space^
@@ -29754,7 +29740,6 @@
 ||normallydemandedalter.com^
 ||normalround.com^
 ||normkela.com^
-||norrxsavjk.com^
 ||norse.mingxiaow.com^
 ||norsinceexactlyamongplait.com^
 ||northauthority.xyz^
@@ -45668,7 +45653,6 @@
 ||wcwijbtqgajxf.global^
 ||wcyvjdpduqxym.site^
 ||wdcwmeklhgnfc.xyz^
-||wderfvqphkzih.space^
 ||wdeynokr.com^
 ||wdhymnxhxpgsn.space^
 ||wdibwgllvzies.love^
