@@ -1,12 +1,48 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.34
+! Version: 1.1.23.35
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-20T09:15:43.865Z
+! Last modified: 2026-01-20T10:12:13.482Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||www.smykdla-dzieci.shop^
+||outliunder.rest^
+||www.mooreamelia.shop^
+||safereading.pro^
+||ideanjb.com^
+||ansonlow.com^
+||areyoucyberready.com^
+||boopalan.com^
+||infocorriente.com^
+||nordicilabs.com^
+||secondlinkln.info^
+||sketchxux.com^
+||iisosjsbbay245g.xyz^
+||patternhgsu.com^
+||jajazfk24a.xyz^
+||bookotter.com^
+||jeina-shop.com^
+||immagnoman.rest^
+||createvrzj.com^
+||lycantroupe.com^
+||paarosforms.com^
+||2v3fyb994yc6nvy5vhsep2d5t3cy2fudgujrot4tcgvyygr0eic3c72gakes.s3-website-us-east-1.amazonaws.com^
+||kumbuktree.com^
+||czarnor-luxivra.com^
+||lantorlowl.com^
+||captcha-metabusiness.live^
+||www.deskburo.com^
+||kanmatyshop.com^
+||er-bos.com^
+||verseewwr.com^
+||realestatecop.info^
+||rosarknack.rest^
+||updata.sptlfy.synoserver.com^
+||globaldigis.com^
+||gigasecurite.com^
+||factcoreln.info^
 ||696f22f20f18e4d268af5cf7--adorable-alfajores-52f938.netlify.app^
 ||locre.info^
 ||squintpsl.rest^
@@ -121240,7 +121276,3 @@
 ||www.vintedspb.shop^
 ||hynohoe.shop^
 ||allegrolokalnie.pzs-45141422.rest^
-||bikupaz.com^
-||www.saficet.com^
-||www.powertooldepots.com^
-||pl-ogloszenia-firmowe-935124.cfd^

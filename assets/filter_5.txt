@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.87.89
+! Version: 1.0.87.90
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-01-20T09:15:19.014Z
+! Last modified: 2026-01-20T10:11:54.135Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -756,7 +756,6 @@
 ||34mede82hj.com^
 ||34y26s47.cfd^
 ||352396e005.com^
-||3535d0471e.com^
 ||35452888.xyz^
 ||354xxcdt1.com^
 ||356.freeonlinegayporn.com^
@@ -1043,7 +1042,6 @@
 ||51fb350e23.com^
 ||51ff617b32.7951504c8b.com^
 ||51gxqm.com^
-||51kaowang.com^
 ||5201l41kuvl7.top^
 ||5241.it^
 ||52588314e4.com^
@@ -7884,7 +7882,6 @@
 ||bdvmetricas.banvenez.com.ve^
 ||bdwmhz.120askimages.com^
 ||bdx.playnext.cn^
-||bdxhujrned.buzz^
 ||bdxydp.icu^
 ||be-rtl.videoplaza.tv^
 ||be06.com^
@@ -8328,7 +8325,6 @@
 ||billboardwring.com^
 ||billiardsseasick.com^
 ||billilia.com^
-||billybobandirect.org^
 ||bilog.lovense-api.com^
 ||bilstedsounded.qpon^
 ||bilsyndication.com^
@@ -8783,7 +8779,6 @@
 ||boringherbalprewashed.com^
 ||bornkaejpngkp.website^
 ||bornmandemicria.co.in^
-||bororango.com^
 ||borosproty.com^
 ||borotango.com^
 ||borrowbrutewarfare.com^
@@ -25591,7 +25586,6 @@
 ||lettingsneak.com^
 ||letunseenprivacy.com^
 ||leucismbemata.help^
-||leuikpidclhez.space^
 ||levatoroboists.world^
 ||level.18huhu.com^
 ||levelborrowingo.com^
@@ -34487,7 +34481,6 @@
 ||qyalpbwjsmvgz.online^
 ||qyczmtalenlnc.store^
 ||qygpcxfqqvfhr.online^
-||qyjvjovkaglpqw.com^
 ||qylkhwawxhomr.site^
 ||qylofdsbhdluj.space^
 ||qymswdusycdvz.space^
@@ -34746,7 +34739,6 @@
 ||rb.rfn.ru^
 ||rb51rh02h.com^
 ||rbdata.boostymark.com^
-||rbdhrkaaxqelb.space^
 ||rbejwzfebcxaz.world^
 ||rbfive.bid^
 ||rbfour.bid^
@@ -36538,7 +36530,6 @@
 ||rwqovmoezrvrv.top^
 ||rwtezd.icu^
 ||rwtzv9ehv.com^
-||rwulzuaqsafn.com^
 ||rwvfxkneipjnq.online^
 ||rwwmbymaezkla.top^
 ||rwwmbymaezljq.top^
@@ -37636,7 +37627,6 @@
 ||sestihjdtwokp.space^
 ||sestonenures.com^
 ||setbeat.com^
-||seteamsobtantion.com^
 ||setka.media^
 ||setoinc.com^
 ||setokanna.online^
@@ -43067,7 +43057,6 @@
 ||trustaproiam.de^
 ||trustberrie.com^
 ||trusted-collector-bk.tmocce.com^
-||trusted-web-seal.cybertrust.ne.jp^
 ||trustedcpmrevenue.com^
 ||trusteddisguises.com^
 ||trustedgatetocontent.com^
@@ -45737,7 +45726,6 @@
 ||wealthn.com^
 ||wealthy-long.pro^
 ||wealthy-mixture.pro^
-||weamvacante.cfd^
 ||weanerssouls.com^
 ||weaponschemicalenglish.com^
 ||weaponsrefused.com^
@@ -48871,7 +48859,6 @@
 ||ziraiwhitier.click^
 ||zireemilsoude.net^
 ||zisu.cn.com^
-||zitiame.cyou^
 ||zitkubqag.com^
 ||ziupljvisonem.space^
 ||zivtux.com^
