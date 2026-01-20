@@ -1,12 +1,49 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.32
+! Version: 1.1.23.33
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-20T07:14:26.530Z
+! Last modified: 2026-01-20T08:13:23.562Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||nalwopa.bwpsites.com^
+||stromam.cfd^
+||buycocaineonlineus.com^
+||keksglobal.com^
+||bestbudgetphones.com^
+||easylink-services.com^
+||askpastor.org^
+||dubaithrillingsafari.com^
+||800database.com^
+||mozliwosci-pl-2.com^
+||fybywio5.com^
+||vewinkomanie.com^
+||hopeflowln.info^
+||labanquedestages.com^
+||reikividya.org^
+||cinnamon-travels.com^
+||bestneighborvillage.com^
+||rothsclothing.com^
+||buddhimitra.org^
+||lostbagtag.com^
+||rocobe.pages.dev^
+||51015kid.shop^
+||artefisote.rest^
+||znzy.org^
+||hijaazlatheef.com^
+||japanesekink.com^
+||fruiting-bodies.com^
+||webyblox.com^
+||indiancremation.org^
+||keksgas.com^
+||cyberequity.org^
+||omanpwpombidding.com^
+||luxown.com^
+||x6b3sm.lol^
+||koop-hier.com^
+||triensollu.rest^
+||pollacanap.rest^
 ||indonesiagirls.com^
 ||doniqee.com^
 ||lepuhaa6.com^
