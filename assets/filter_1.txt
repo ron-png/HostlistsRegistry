@@ -1,9 +1,9 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.52.95
+! Version: 1.0.52.96
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2026-01-20T02:48:12.227Z
+! Last modified: 2026-01-20T04:25:50.498Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -9671,6 +9671,7 @@ vkcdnservice.appspot.com^
 ||aswaylievest.com^
 ||asxmxoncntczg.website^
 ||asxvejeojwajf.online^
+||aszwpglgletyf.online^
 ||atableofcup.com^
 ||atafterpiquing.cfd^
 ||ataiyalstrays.com^
@@ -11224,6 +11225,7 @@ vkcdnservice.appspot.com^
 ||biolw.cloud^
 ||biontpottersrelicts.cyou^
 ||biontsjudokas.help^
+||biotahanburygaen.cfd^
 ||bipartyskirled.cyou^
 ||bipedalamarthlaminar.cfd^
 ||biphic.com^
@@ -12983,6 +12985,7 @@ vkcdnservice.appspot.com^
 ||ccfvhquaynxcp.space^
 ||ccgateway.net^
 ||cchkvtejdnqov.space^
+||ccjdzhbuwprjq.website^
 ||ccjfxvnyiqcfv.space^
 ||ccjlyeghbdppq.website^
 ||ccjzuavqrh.com^
@@ -20856,6 +20859,7 @@ vkcdnservice.appspot.com^
 ||fussy-community.pro^
 ||fussy-rest.pro^
 ||fussychance.pro^
+||fut2739jozhcpuw621q8omrv5rkkfur.cfd^
 ||futdicbardzi.com^
 ||futsonseeke.net^
 ||futtahunsews.cyou^
@@ -21959,6 +21963,7 @@ vkcdnservice.appspot.com^
 ||gmorafjcnoifq.space^
 ||gmpjdxvoujgfz.website^
 ||gmpustyzebuow.store^
+||gmpwbnyqptdhyj.com^
 ||gmsizwxqspypi.space^
 ||gmxdyrieikifv.store^
 ||gmxes.com^
@@ -24938,6 +24943,7 @@ vkcdnservice.appspot.com^
 ||ileeckut.com^
 ||ileesidesukbe.org^
 ||ileumoctant.com^
+||ilfbybsjhtz.com^
 ||ilhangrnyaubr.site^
 ||ilhtossuwjwcg.online^
 ||iliketomakingpics.com^
@@ -26201,6 +26207,7 @@ vkcdnservice.appspot.com^
 ||jdisbyzitokgt.website^
 ||jdiwtetxazxkd.space^
 ||jdlqivqfhiyjz.site^
+||jdmiuypoqflevdy.com^
 ||jdohegxjytnit.space^
 ||jdoqocy.com^
 ||jdpqrxskaka.com^
@@ -29164,6 +29171,7 @@ vkcdnservice.appspot.com^
 ||llykjmzkqvvqy.top^
 ||llzahqzvuzorn.website^
 ||llzlbnvv.work^
+||lm1668.com^
 ||lmaarwdqraeak.online^
 ||lmacvanjv.com^
 ||lmalyjyevjblr.top^
@@ -34291,6 +34299,7 @@ vkcdnservice.appspot.com^
 ||opsczlntxhvki.space^
 ||opskiwzwtvfic.store^
 ||opsonialaban.qpon^
+||opsrfyrrxrdbfnx.xyz^
 ||optad360.io^
 ||optad360.net^
 ||opticlygremio.com^
@@ -35403,6 +35412,7 @@ vkcdnservice.appspot.com^
 ||peacebanana.com^
 ||peacefullywalterdues.com^
 ||peacefulshadowway.com^
+||peacetriunal.cfd^
 ||peacockresistpeppermint.com^
 ||peacyx.com^
 ||peakclick.com^
@@ -35945,6 +35955,7 @@ vkcdnservice.appspot.com^
 ||pink-high.pro^
 ||pinkedligulin.cfd^
 ||pinkingpoignetparodos.cyou^
+||pinkishfrizz.com^
 ||pinkkeelsynchronize.com^
 ||pinklabel.com^
 ||pinkleo.pro^
@@ -37458,6 +37469,7 @@ vkcdnservice.appspot.com^
 ||punctual-pie.pro^
 ||punctuationbandycontradict.com^
 ||pundumringatu.cfd^
+||pungent-shift.pro^
 ||pungentobservationwhispering.com^
 ||pungentwairsh.rest^
 ||punicbices.cfd^
@@ -39610,6 +39622,7 @@ vkcdnservice.appspot.com^
 ||rganizationsuch.com^
 ||rgavvimsecmbo.life^
 ||rgbkmubapsgza.space^
+||rgcgjmruqf.com^
 ||rgeaxjuf.xyz^
 ||rgemgnxejsmrt.online^
 ||rgezwfnbpigkd.site^
@@ -43345,6 +43358,7 @@ vkcdnservice.appspot.com^
 ||subcashgirly.cfd^
 ||subdatejutties.com^
 ||subdued-breakfast.pro^
+||subdued-forever.pro^
 ||subduedfilthloot.com^
 ||subericfibsfusing.cfd^
 ||subgumsabe.cfd^
@@ -50685,6 +50699,7 @@ vkcdnservice.appspot.com^
 ||yearly-training.pro^
 ||yeastexisting.com^
 ||yeastfeukufund.org^
+||yebycrfmcwohc.site^
 ||yecytiqior.net^
 ||yeecxbcbhveex.space^
 ||yegggracile.top^
@@ -50956,6 +50971,7 @@ vkcdnservice.appspot.com^
 ||ynbsakxipni.net^
 ||yncddpjquwij.net^
 ||ynfanslkhrdtn.space^
+||yngkcddaqbzmt.online^
 ||ynhafvxotzgyw.online^
 ||ynipuxptcx.com^
 ||ynjryqkgtlixu.space^
@@ -51616,6 +51632,7 @@ vkcdnservice.appspot.com^
 ||zirdough.net^
 ||zireemilsoude.net^
 ||zishegoshordip.net^
+||zitiame.cyou^
 ||zitkubqag.com^
 ||ziupljvisonem.space^
 ||zivtux.com^
@@ -51681,6 +51698,7 @@ vkcdnservice.appspot.com^
 ||zlmzvqoishrcb.store^
 ||zlnzioxqvzfxp.store^
 ||zlqgrxuoxqpbd.website^
+||zlsvhossbiuwq.space^
 ||zlviiaom.space^
 ||zlwfvuhznixcn.store^
 ||zlwyiedcgsnco.store^
