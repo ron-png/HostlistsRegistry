@@ -1,12 +1,51 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.41
+! Version: 1.1.23.42
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-20T17:13:20.212Z
+! Last modified: 2026-01-20T18:14:49.214Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||strafciaba.rest^
+||lifestaygood.com^
+||accesergeter.com^
+||bit2-urex.com^
+||oregonnativeplantmap.com^
+||strategyforuminc.com^
+||gurdianangels.com^
+||scottyswoodshop.com^
+||seacrestequestrian.com^
+||olx.shop-skrillpay.cfd^
+||nilavacav.icu^
+||styletrend.club^
+||itkclenrw.net-platnosc.shop^
+||wv5zqs.lat^
+||nacionalidadsefardita.com^
+||operationx.com^
+||roysolution.com^
+||sahcotrade.com^
+||redhillinst.com^
+||zrzutkaa-pl.vercel.app^
+||risuna.axisswell.com^
+||rocket.tiobukio.biz.id^
+||misstfessu.rest^
+||gltox.com^
+||ynetw.biz^
+||hpdogcz.net-platnosc.shop^
+||sparktronica.com^
+||best-western-cloud.com^
+||botlanne.site^
+||report22.com^
+||reasonsbluelivesmatter.com^
+||skylimitproperty.com^
+||sheldonhancock.com^
+||sidneyrealestates.com^
+||fashioninstylemiami.com^
+||scoutent.com^
+||socksmart.com^
+||scottkellyhomebuilding.com^
+||gurudwarascsny.com^
 ||savan-svaas.com^
 ||ujfty.net-platnosc.shop^
 ||stratagembjj.com^
@@ -2668,7 +2707,6 @@
 ||wdpatw.com^
 ||livingfountainlabs.com^
 ||desiderioibiza.com^
-||www.styletrend.club^
 ||tecniplute.rest^
 ||cihuxue.com^
 ||fenyloo.pro^
@@ -121599,9 +121637,3 @@
 ||connectlabd7rive.online^
 ||connectsafecore.space^
 ||digf9usionsystem.store^
-||zabka.top-gaming.shop^
-||lnpost.zabezpeczonapaczka.icu^
-||yayovox.com^
-||pl-oferta7297493.cfd^
-||pl-oferta6352329.icu^
-||pl-oferta69485934.cfd^
