@@ -1,12 +1,52 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.40
+! Version: 1.1.23.41
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-20T16:13:51.428Z
+! Last modified: 2026-01-20T17:13:20.212Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||savan-svaas.com^
+||ujfty.net-platnosc.shop^
+||stratagembjj.com^
+||stanotech.com^
+||satcobooking.com^
+||skylimitwealth.com^
+||seniordiscountsavings.com^
+||santajtechnology.com^
+||openquip.com^
+||orazor.com^
+||sealepic.com^
+||gabilanche.com^
+||zaviastudio.com^
+||platfmake.click^
+||jviecoq.net-platnosc.shop^
+||duceyw.net-platnosc.shop^
+||zweckjq.net-platnosc.shop^
+||www.dla-dzieci.shop^
+||giustthrou.rest^
+||golzav.info^
+||medisposalsolution.info^
+||oviyaitsolutions.com^
+||unimpairedlife.com^
+||telegram-gruppo-quill.rest^
+||artobgix.com^
+||sculptgiyh.com^
+||paczka.armosilek.cyou^
+||riorancholive.com^
+||roplantdealer.com^
+||fartcommander.com^
+||ovjblack.com^
+||designqrv.com^
+||undegretwi.rest^
+||sketchytbtu.com^
+||veridstatustrip.com^
+||artifxgu.com^
+||managewebappsecureasdoiyiore.dfgjrtyirefgjurtsd.com^
+||realtormarketingcloud.com^
+||skinbynay.com^
+||scottsager365.com^
 ||stand0ff.shop^
 ||escribirentiemposdeia.com^
 ||spacehalos.com^
@@ -121565,6 +121605,3 @@
 ||pl-oferta7297493.cfd^
 ||pl-oferta6352329.icu^
 ||pl-oferta69485934.cfd^
-||allegrolokalnie.pl-firmowe-295.icu^
-||investcanapp.net^
-||veneziaoultsale.shop^
