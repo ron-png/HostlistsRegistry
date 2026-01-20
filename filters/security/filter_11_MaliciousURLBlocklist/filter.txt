@@ -1,9 +1,9 @@
 !
 ! Title: Malicious URL Blocklist (URLHaus)
 ! Description: Blocklist of malicious websites based on the Database dump of Abuse.ch URLhaus
-! Version: 1.0.24.35
+! Version: 1.0.24.36
 ! Homepage: https://urlhaus.abuse.ch/
-! Last modified: 2026-01-20T00:35:57.676Z
+! Last modified: 2026-01-20T13:24:07.852Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -80,7 +80,6 @@
 ||0yna.lo0kferti1.ru^
 ||0z.cloverschnee.ru^
 ||0z.sproutkraft.ru^
-||0z.t-pay3.ru^
 ||0z3sa.tweak-mire.ru^
 ||0zi.wildc0ast.ru^
 ||0zlrw.lo5ermedi0c.ru^
@@ -112,7 +111,6 @@
 ||13p3ause7381df.com^
 ||13rv.wild5ky.ru^
 ||13va.windl1ne.ru^
-||14-0-204-188.static.pccw-hkt.com^
 ||14.888-c.ru^
 ||14b6.prairieforge.ru^
 ||14ba.fogmap.ru^
@@ -185,7 +183,6 @@
 ||1m.harborfreund.ru^
 ||1m.imm-yi.ru^
 ||1m.paradeabend.ru^
-||1m.t-pay3.ru^
 ||1m.tundrasable.ru^
 ||1n.33b2.ru^
 ||1n.z3-lu.ru^
@@ -340,7 +337,6 @@
 ||2w.plx-5.ru^
 ||2w5pvupy.c2rv5uating.ru^
 ||2wa.stormblink.ru^
-||2wpx.28ae00i7.ru^
 ||2wq.8j4-5-6.ru^
 ||2wwhaoq1.n1ghtsh0re.ru^
 ||2wz05npa.heh0vli8ht.ru^
@@ -456,7 +452,6 @@
 ||3z6.bo8y.ru^
 ||3zd6k5n6q3.ufs.sh^
 ||3zg.barg5t0get.ru^
-||4.o-a4eu.ru^
 ||40.hb0-e.ru^
 ||40.n-jur.ru^
 ||402f1.digncbe.top^
@@ -531,7 +526,6 @@
 ||4rx0l.skyhollow.ru^
 ||4shn.t1decrystai.ru^
 ||4sv.cl0udmark.ru^
-||4tqm.28ae00i7.ru^
 ||4v.hyk5.ru^
 ||4v.sunf0rest.ru^
 ||4vc.s0ftbyte.ru^
@@ -785,7 +779,6 @@
 ||7d7ai.st-0-y-70-renka.ru^
 ||7db24a1f-1cdd-4190-89ec-b2765dadb2cd.random.tsrv1.ws^
 ||7e8g.brambleforge.ru^
-||7eud.97ie88e7.ru^
 ||7ew.t2kec2reujo.ru^
 ||7fl06.harpswitch.ru^
 ||7g.darkw1nd.ru^
@@ -1038,7 +1031,6 @@
 ||9zpya.drift-shad-0-w.ru^
 ||9zs.my^
 ||a-gwo.pages.dev^
-||a.1vd-z.ru^
 ||a.4md69.ru^
 ||a.565fit.ru^
 ||a.6vwj8.ru^
@@ -1053,7 +1045,6 @@
 ||a.embergarten.ru^
 ||a.if-p4.ru^
 ||a.u-na5.ru^
-||a.x-ceu8.ru^
 ||a0.crju.ru^
 ||a012a656-f566-48a1-afad-3dcc46018380.random.tsrv1.ws^
 ||a03.4qua0.ru^
@@ -1090,7 +1081,6 @@
 ||a3z.0bj3i.ru^
 ||a3z.7ph88.ru^
 ||a3z.tgmop.ru^
-||a3zq.8d9691.online^
 ||a4.d-k-6j.ru^
 ||a4g2t.yq2r.online^
 ||a4m2.r0en3ap.ru^
@@ -1134,7 +1124,6 @@
 ||a9.q-0-spi.ru^
 ||a9.se5m.ru^
 ||a9.t4mo.ru^
-||a9.zm6392.online^
 ||a92.i3-42s.ru^
 ||a9hm.l3rc-0.ru^
 ||a9jpf.f1rewall.ru^
@@ -1175,6 +1164,7 @@
 ||acc.jiangsujiaxue.com^
 ||access.dragongolf.com^
 ||access.skaparade.com^
+||accesstelematics.com^
 ||account-captcha-id4234.cfd^
 ||account-captchapulse.com^
 ||account-extranetcheck.com^
@@ -1214,7 +1204,6 @@
 ||ae09.briarhaven.ru^
 ||aehz.id1otre5ist.ru^
 ||aesthetic-parfait-d56344.netlify.app^
-||aff1xslavka.com^
 ||afinelineonline.com^
 ||ag.lizqa.ru^
 ||ag9sdh7p.expre5ssme4d.ru^
@@ -1488,6 +1477,7 @@
 ||aurora.enra8evue7k.ru^
 ||aurora.stormpixei.ru^
 ||aurora.sunb1aze.ru^
+||aurorabolnica.co.rs^
 ||aushsi.org.au^
 ||austin.babione.info^
 ||austinmortuaryservicetx.com^
@@ -1544,7 +1534,6 @@
 ||b.4kl-9.ru^
 ||b.60nma5.ru^
 ||b.8ss4e.ru^
-||b.lb3091.online^
 ||b.owp-oo.ru^
 ||b.tyj-4b.ru^
 ||b.yy88.ru^
@@ -1851,6 +1840,7 @@
 ||blink2.hre9in7mamma.ru^
 ||blink6.hre9in7mamma.ru^
 ||blink8.brahtr0phy.ru^
+||blit.co.za^
 ||blitz.elmfalter.ru^
 ||bln.vex0.ru^
 ||block.c2rpyub2n.ru^
@@ -2144,7 +2134,6 @@
 ||c3r.phoenixbogen.ru^
 ||c3r.vortexgipfel.ru^
 ||c3ytx.ha5r.online^
-||c4.bl8205.online^
 ||c4.dae017f.ru^
 ||c45.q4zi.ru^
 ||c4hx.u4-r-o.ru^
@@ -2180,7 +2169,6 @@
 ||c8.harborfreund.ru^
 ||c8.imm-yi.ru^
 ||c8.paradeabend.ru^
-||c8.t-pay3.ru^
 ||c8.tundrasable.ru^
 ||c8.yf-l3.ru^
 ||c81.darkm0on.ru^
@@ -2242,8 +2230,6 @@
 ||cask.sn0cklejar.ru^
 ||cast4r.ra1nbyte.ru^
 ||castlerocks.za.com^
-||cat.dashabi.in^
-||cat.xiaojiji.nl^
 ||cat.xiaoshabi.nl^
 ||catbaparadisehotel.com.vn^
 ||cbo.xa4p.ru^
@@ -2302,7 +2288,6 @@
 ||chamber.st-1-lt-forge.ru^
 ||champ.f1ercen1ivin.ru^
 ||changemyseat.com^
-||charityjs.com^
 ||charlesschrf.com^
 ||charm.ist0mpi1e.ru^
 ||charm.lizqa.online^
@@ -2324,7 +2309,6 @@
 ||chromocloud.com^
 ||chu.dc-8.ru^
 ||chuanshi.pages.dev^
-||chuguadventures.co.tz^
 ||churchinmanila.org^
 ||chx.darkl1ne.ru^
 ||ci0udx.cioudberryx.ru^
@@ -2621,7 +2605,6 @@
 ||d0mu.60e533569.online^
 ||d0rux5.c-1-othwou-1-d.ru^
 ||d0ugh7.kneadloop.ru^
-||d1.zm6392.online^
 ||d13t0vhgb35i4m.cloudfront.net^
 ||d166ab3b-91ab-410f-a50d-c702fa55858d.random.tsrv1.ws^
 ||d1hs.7l-0b.ru^
@@ -2646,14 +2629,12 @@
 ||d38c6492-db8a-468e-9680-b62c6443b8b0.random.tsrv1.ws^
 ||d3cciiowg5l3jx.cloudfront.net^
 ||d3h7.picket-core.ru^
-||d3j7.28ae00i7.ru^
 ||d3k.hush-zigzag.ru^
 ||d3l.quartznibble.ru^
 ||d3pf0x.deepf0x.ru^
 ||d3qe7gf49vd8v4f7qkog3k83qyjmxqekd.oast.site^
 ||d3qe7gf49vd8v4f7qkog4p7irt8y4aybi.oast.site^
 ||d3qe7gf49vd8v4f7qkogh3syf14cmbshj.oast.site^
-||d3qe7gf49vd8v4f7qkogh8xg1zos3ezoy.oast.site^
 ||d3qe7gf49vd8v4f7qkogk46snzmyieg5q.oast.site^
 ||d3qe7gf49vd8v4f7qkogknqs6a4d4a3ip.oast.site^
 ||d3qe7gf49vd8v4f7qkogmitkfds44zhxt.oast.site^
@@ -2661,7 +2642,6 @@
 ||d3qe7gf49vd8v4f7qkogoypbgorsrcf8p.oast.site^
 ||d3qe7gf49vd8v4f7qkogqo383gf7muf44.oast.site^
 ||d3qe7gf49vd8v4f7qkogttfnr4ipncbri.oast.site^
-||d3qe7gf49vd8v4f7qkogujj538awzc8nn.oast.site^
 ||d3qe7gf49vd8v4f7qkogw79coqphmu8hr.oast.site^
 ||d3qe7gf49vd8v4f7qkogxanmg7t4p7jbk.oast.site^
 ||d3tzn.yldv.online^
@@ -3115,7 +3095,6 @@
 ||dv.ru6q.ru^
 ||dv6.kgto6b.ru^
 ||dvq02enh.five5kitt1es.ru^
-||dw.c4kdeliver.top^
 ||dw.entire1y5ming.ru^
 ||dw.lanternbrook.ru^
 ||dw.nsfirewal.top^
@@ -3129,7 +3108,6 @@
 ||dxv.lu7hichma7t.ru^
 ||dz4y1.p2rabpr0nos.ru^
 ||dzthj.dup-1-ic-4-ermaph.ru^
-||e.2f8-2.ru^
 ||e.b8c90.ru^
 ||e.y742au.ru^
 ||e0.meltquark.ru^
@@ -3313,7 +3291,6 @@
 ||emierich.com^
 ||en.n4-ke.ru^
 ||en.taichuan.com^
-||endesway.life^
 ||energy63.ru^
 ||enrb3.f1eldgate.ru^
 ||ent.33b2.ru^
@@ -3402,7 +3379,6 @@
 ||f1nned.darkf1sh.ru^
 ||f1rm.da5v.online^
 ||f1sher.g0ldfish.ru^
-||f1y6.97ie88e7.ru^
 ||f24-zfcloud.zdn.vn^
 ||f2a.nebularanke.ru^
 ||f2x8m.yw9a.online^
@@ -3421,7 +3397,6 @@
 ||f6.0bj3i.ru^
 ||f6.6wou3.ru^
 ||f6.7ph88.ru^
-||f6.8d9691.online^
 ||f6.jg-7-ra.ru^
 ||f6b.st0rmbyte.ru^
 ||f78.ju8r.ru^
@@ -3584,6 +3559,7 @@
 ||first-security-verden.de^
 ||fishspike.pro^
 ||fistingasser.sbs^
+||fitforevercavan.ie^
 ||fix.k8li.ru^
 ||fizz.de1iainal0s.ru^
 ||fizz.kettle-wisp.ru^
@@ -3832,7 +3808,6 @@
 ||fzjn4gee.hush-pancake.ru^
 ||fzr.p0larday.ru^
 ||g.9715w.ru^
-||g.9b9-7.ru^
 ||g.falconhimmel.ru^
 ||g.i924ao.ru^
 ||g.yxb-au.ru^
@@ -4362,7 +4337,6 @@
 ||h1p.n-61-5.ru^
 ||h1u.ra6n.ru^
 ||h1vf4.lu2p.online^
-||h1z.lb3091.online^
 ||h2.cloverschnee.ru^
 ||h2.kuq5g.ru^
 ||h2.owp-oo.ru^
@@ -4395,7 +4369,6 @@
 ||h2x.1051lt6.ru^
 ||h2x.sn-1-pixel.ru^
 ||h3.0f78.ru^
-||h3.3x6-7.ru^
 ||h3.def1nmem0r.ru^
 ||h3.i261au.ru^
 ||h3d9.fl0watch.ru^
@@ -4426,7 +4399,6 @@
 ||h6.5h0p.ru^
 ||h650evc4.cl0ud5tream.ru^
 ||h6p4t.1z57.online^
-||h7.2f8-2.ru^
 ||h7.o-y3ii.ru^
 ||h7.y742au.ru^
 ||h71.ye-t5c.ru^
@@ -4656,7 +4628,6 @@
 ||hoar.frostc0re.ru^
 ||hoar2.fr0stgate.ru^
 ||hoar2.frostb1te.ru^
-||hobobot.net^
 ||hobsmedia.com^
 ||hod3an.ban9noti0n.ru^
 ||hody-musique.com^
@@ -4676,7 +4647,6 @@
 ||horion-static.pages.dev^
 ||host-195-103-203-106.business.telecomitalia.it^
 ||host-95-230-215-65.business.telecomitalia.it^
-||host-95-255-114-11.business.telecomitalia.it^
 ||host.forestcl0ud.ru^
 ||host.pl-8-a.ru^
 ||hostel.org.br^
@@ -4852,7 +4822,6 @@
 ||ilovephysics.48101.online^
 ||image.duzhk2s1ob.ru^
 ||imagesearcherpro.com^
-||imagn.world^
 ||imaziner.com^
 ||img.nwuyn19.com^
 ||img.ponuzayazing.com^
@@ -4884,7 +4853,6 @@
 ||innov8league.com^
 ||inomailerhe.net^
 ||inpdf-file.store^
-||insaim10.prosuperservers.com^
 ||inspiresphere.site^
 ||instapaybd.top^
 ||instel.insti8sc2tter.ru^
@@ -5006,7 +4974,6 @@
 ||jag.n4ke.ru^
 ||jaguarsgame.live^
 ||jailbreak-bsa.pages.dev^
-||jakestrack.com^
 ||jaknuf.rockf1eld.ru^
 ||jaltep.dropga7net5.ru^
 ||jalz.stonef1eld.ru^
@@ -5168,7 +5135,6 @@
 ||jzyc.mintburst.ru^
 ||k.6e5a5u3.ru^
 ||k0.1z22k.ru^
-||k0.f-xiu4.ru^
 ||k0.owp-oo.ru^
 ||k0fj3.k9-2g8.ru^
 ||k0h.softshadow.ru^
@@ -5259,7 +5225,6 @@
 ||k9k.yu5k.ru^
 ||k9p.stonefog.ru^
 ||k9pwa.ha0m.online^
-||k9r.8d9691.online^
 ||k9r2.0bj3i.ru^
 ||k9r2.7ph88.ru^
 ||k9r2.lej75a.ru^
@@ -5541,7 +5506,6 @@
 ||l7ks5.brahtr0phy.ru^
 ||l7x.q-0-spi.ru^
 ||l8.p7li.ru^
-||l8k.zm6392.online^
 ||l8lp.kn-1-fecast.ru^
 ||l8q.gi0x.ru^
 ||l8rd.30u241207.online^
@@ -5822,7 +5786,6 @@
 ||lvo.w1um.ru^
 ||lvu.xa4p.ru^
 ||lwch.iunarpeak.ru^
-||lx0c.97ie88e7.ru^
 ||lx88w.fireciiff.ru^
 ||lxp1.f1ippme7re.ru^
 ||ly.drip-anchor.ru^
@@ -5882,7 +5845,6 @@
 ||m1sty.lake5p1rit.ru^
 ||m1styx.mistflare.ru^
 ||m1x5hn.mar5hma1narc.ru^
-||m2.3x6-7.ru^
 ||m2.f-o-9bt.ru^
 ||m2.i261au.ru^
 ||m22u9.l1ghtforest.ru^
@@ -5922,7 +5884,6 @@
 ||m5k.st0nesurge.ru^
 ||m5n.wi7e.ru^
 ||m5narc.mar5hma1narc.ru^
-||m5q1.bl8205.online^
 ||m5r1.g1zmobrain.ru^
 ||m5we2.v4-z.online^
 ||m5we2.w-8z35.com^
@@ -5942,9 +5903,7 @@
 ||m7rd.frosthain.online^
 ||m7x.lunarlicht.ru^
 ||m7y1.7aoasu3.ru^
-||m7y1.8d9691.online^
 ||m8.ahz-ya.ru^
-||m8.x-ceu8.ru^
 ||m8.y-o7uu.ru^
 ||m8hpd.dark5hip.ru^
 ||m8o.cloudw1re.ru^
@@ -6071,7 +6030,6 @@
 ||mesh.s0larbudge.ru^
 ||mesh.treqz.online^
 ||meshagent.pages.dev^
-||messias.org.br^
 ||mestredoscursos.com^
 ||meteorsegel.ru^
 ||metqiv.tr2chec0rrupt.ru^
@@ -6366,7 +6324,6 @@
 ||n.k-8ip.ru^
 ||n.vs108.com^
 ||n0.j5-ol.ru^
-||n0.rv6324.online^
 ||n0.to1j.ru^
 ||n0aq.y8-8.online^
 ||n0df5.u4-r-o.ru^
@@ -6385,8 +6342,6 @@
 ||n2t8k.wi7o.online^
 ||n2v4.bo8y.online^
 ||n2v5m.71o9.online^
-||n3.1vd-z.ru^
-||n3.2f8-2.ru^
 ||n3.o-y3ii.ru^
 ||n3.y742au.ru^
 ||n3.yo11.ru^
@@ -6433,7 +6388,6 @@
 ||n7y.drift-meadow.ru^
 ||n84.po5m.ru^
 ||n8a.lightw1nd.ru^
-||n8n.heroxhost.com^
 ||n8r.k0xx-i4.ru^
 ||n8u.v0xelspark.ru^
 ||n8z.lweaq9b.ru^
@@ -6767,13 +6721,13 @@
 ||ok2.5hri1luv.ru^
 ||oka.24s6.ru^
 ||oknkywzi.in2che1ncrem.ru^
-||oknoplastik.sk^
 ||okolojosephthesecondsfoundation.org^
 ||ol.wi-7e.ru^
 ||ol.wildcr3st.ru^
 ||ol01a5t4.expe7iencfu9.ru^
 ||old.agroonline.uz^
 ||old.bullydog.com^
+||old.umcl.us^
 ||oly.sea5t0rm.ru^
 ||om.jg7ra.ru^
 ||om0o.stormc0de.ru^
@@ -6921,14 +6875,12 @@
 ||oz.qu2rv0lts.ru^
 ||p.259ox.ru^
 ||p.595-1.ru^
-||p.8d9691.online^
 ||p.dl3zd.ru^
 ||p.harborfreund.ru^
 ||p0.9i3mpa6.ru^
 ||p0.brightvoyage.ru^
 ||p0.imm-yi.ru^
 ||p0.paradeabend.ru^
-||p0.t-pay3.ru^
 ||p00l.pi-6-o.ru^
 ||p01.f-o-9bt.ru^
 ||p0a.8ss4e.ru^
@@ -7000,7 +6952,6 @@
 ||p81s.stonem1nt.ru^
 ||p8ny.ru7x.online^
 ||p8t3k.kzg-w-4y.ru^
-||p9.1vd-z.ru^
 ||p9a.mjg-1.online^
 ||p9akm.9-s-7g.ru^
 ||p9c.starmarkt.online^
@@ -7222,7 +7173,6 @@
 ||pkjggffg.sbs^
 ||pkw.kos0ltyu4etey.ru^
 ||pkxq.gl1tchloam.ru^
-||pl.3x6-7.ru^
 ||pl.i261au.ru^
 ||pl.je9t.ru^
 ||plafinlungem.corazonindomable.sbs^
@@ -7263,7 +7213,6 @@
 ||pn.j8ro.ru^
 ||pngup.com^
 ||pnq.7si-s.ru^
-||pns.org.pk^
 ||po1y8.windst0ne.ru^
 ||pobedastaff.ru^
 ||pocket.knurl-pocket.ru^
@@ -7354,7 +7303,6 @@
 ||psm1e.ravenklause.ru^
 ||psmds.br1stlefax.ru^
 ||pstoto99.quest^
-||pt.o-a4eu.ru^
 ||pt6vy.knurlpocket.ru^
 ||ptarb.b2ptb1ryuk.ru^
 ||ptiptv.xyz^
@@ -7370,7 +7318,6 @@
 ||pub-2bf88754a39b406e92a720f7714c9c13.r2.dev^
 ||pub-37f3a615586d47f4996e932bf6df7670.r2.dev^
 ||pub-3d288ec7530a4c18b2a60ff5ff4d7fc9.r2.dev^
-||pub-4d0523da6b59476b816355873540def9.r2.dev^
 ||pub-5f6ace5069484935961c4294ac634cc6.r2.dev^
 ||pub-79be3ddd17a0453a9370a50ed23ed93e.r2.dev^
 ||pub-86da01ef5dcc48a5835da89640b8232a.r2.dev^
@@ -7389,7 +7336,6 @@
 ||pub-df13d803030c4cab8b69722fbd66d7cd.r2.dev^
 ||pub-e306adc6127c4521869ba034f1b34502.r2.dev^
 ||pub-e572ab4865dd4c4fb55c0aa98c1c90ef.r2.dev^
-||pub-e785a40cf7fd44e78f7f229ae8ff2d97.r2.dev^
 ||pub-f7b86aa6c1824adfbdbb3c8467988196.r2.dev^
 ||pub-f7bac3bf7ef04691bdd2f9aa6557e862.r2.dev^
 ||pub-f942473f6d464899bfca96bfe8c1c914.r2.dev^
@@ -7424,7 +7370,6 @@
 ||purerat32.duckdns.org^
 ||purge.baib2kcle2r.ru^
 ||purr5x.c1oudcat.ru^
-||pv.2f8-2.ru^
 ||pv.614lo.ru^
 ||pv.y742au.ru^
 ||pvsa.gxfugy.cn^
@@ -7454,7 +7399,6 @@
 ||q0h.uht-3-o.ru^
 ||q0h3.0ouuky0.ru^
 ||q0qwfwsf.b2sil5kirdor.ru^
-||q1.0vs-r.ru^
 ||q1.4qua0.ru^
 ||q1.dl3zd.ru^
 ||q1.if-p4.ru^
@@ -7494,7 +7438,6 @@
 ||q4m.v3ix.online^
 ||q5.1051lt6.ru^
 ||q5.k0xx-i4.ru^
-||q5.lb3091.online^
 ||q5.wild5ky.ru^
 ||q5ct.hover-mint.ru^
 ||q5l.fl0watch.ru^
@@ -7512,7 +7455,6 @@
 ||q7.basaltwerk.ru^
 ||q7.k8cr-9b.ru^
 ||q7.kgto6b.ru^
-||q7.v-bua0.ru^
 ||q7.yxb-au.ru^
 ||q71t.mistyshore.ru^
 ||q7dz.432b47.ru^
@@ -7607,7 +7549,6 @@
 ||qjwe.ap2thsh0pk.ru^
 ||qjx5z.jazzm1s8uid.ru^
 ||qk7.solarfracht.online^
-||qk8.bl8205.online^
 ||qk8q.cloudpeak.ru^
 ||qki.g7ve.ru^
 ||qkp.adv0cal1egat.ru^
@@ -7736,7 +7677,6 @@
 ||r2px.7l-0b.ru^
 ||r2q3.94e-w8.ru^
 ||r2qm.08u073852.online^
-||r2t.bl8205.online^
 ||r2t3.0-xv-3i5.ru^
 ||r2tl.3v-3y.ru^
 ||r2uk.6-w0y.ru^
@@ -7768,7 +7708,6 @@
 ||r6tb5.chimef2ce1e.ru^
 ||r6tva.k9-2g8.ru^
 ||r6wt2.u4-r-o.ru^
-||r7.0vs-r.ru^
 ||r7.uz-k9.ru^
 ||r7.y-o7uu.ru^
 ||r7a.mi7x.online^
@@ -7786,7 +7725,6 @@
 ||r8y.i1msth.com^
 ||r9.cobaltwolke.ru^
 ||r9.rainst0rm.ru^
-||r9.x-ceu8.ru^
 ||r91.b1tzdrop.ru^
 ||r9b5m.da6v.online^
 ||r9cb.37i658094.online^
@@ -8122,11 +8060,9 @@
 ||rz.zi-qa.ru^
 ||rz1.8j4-5-6.ru^
 ||rz3.1e2u2a0.ru^
-||rz3.5m9081.online^
 ||rz4.sunny-harbor.ru^
 ||rzie8.ravenklause.ru^
 ||s.0ouuky0.ru^
-||s.0vs-r.ru^
 ||s.8oryn.ru^
 ||s.91-7l.ru^
 ||s.cloverschnee.ru^
@@ -8172,7 +8108,6 @@
 ||s3.fire1n5ulat.ru^
 ||s3.frostsh1ft.ru^
 ||s3.g.s4.mega.io^
-||s3.zm6392.online^
 ||s3nzk.pe8d.online^
 ||s3ov5.bounceme.net^
 ||s3w9.hushdr0pper.ru^
@@ -8295,8 +8230,6 @@
 ||seal.hollow-zip.ru^
 ||search.uzduociubankas.lt^
 ||seb.gl8r.ru^
-||sec.dashabi.in^
-||sec.xiaojiji.nl^
 ||sec.xiaoshabi.nl^
 ||secretcryptos.com^
 ||secure-es.app^
@@ -8372,7 +8305,6 @@
 ||shad3o.0akshade.ru^
 ||shade.darkp1xel.ru^
 ||shade.shadowm1nt.ru^
-||shaderm.com^
 ||shadow-grove.ru^
 ||shadow.adv0cal1egat.ru^
 ||shadow.champm2loma1.ru^
@@ -8668,7 +8600,6 @@
 ||splash.dunkr1n5her.ru^
 ||splash8.r1verdrop.ru^
 ||splo8s.rainbyte.ru^
-||spoar.org.in^
 ||spool.doub1ebarzu8.ru^
 ||spore.ent0molobo1t.ru^
 ||spotifyapk.net^
@@ -8691,7 +8622,6 @@
 ||squall.stormpixei.ru^
 ||squall2.hiiistorm.ru^
 ||squx.fogtangent.ru^
-||sr5b.28ae00i7.ru^
 ||sr7.va4n.ru^
 ||src1.minibai.com^
 ||srjxi.aud-1-mi-5-s.ru^
@@ -8787,7 +8717,6 @@
 ||stone.ga8tukh1yat.ru^
 ||stone.m1stbird.ru^
 ||stone.nightm1nt.ru^
-||stonecradle.com^
 ||stoneo.tuful32io3.ru^
 ||stop.m0rning.ru^
 ||store.csmanay.com^
@@ -8813,7 +8742,6 @@
 ||straranvel67.lausurpadora.sbs^
 ||strat.skytrac5.ru^
 ||stream3.datash1ft.ru^
-||streammobs.com^
 ||strilenfar67.rebelde.sbs^
 ||stripe-connect.org^
 ||striranmonvaz7.lausurpadora.sbs^
@@ -8911,7 +8839,6 @@
 ||t0.r2zin5pir.ru^
 ||t00l.pl-8-a.ru^
 ||t04.4md69.ru^
-||t04m.lb3091.online^
 ||t08.y3-68c.ru^
 ||t0k.78nsy6.ru^
 ||t0k3.b6je.online^
@@ -9273,7 +9200,6 @@
 ||tp.op76.ru^
 ||tpauser9be.com^
 ||tq.1ne-z.ru^
-||tq.9b9-7.ru^
 ||tq.i924ao.ru^
 ||tq.mistybyte.ru^
 ||tq.pixelstern.ru^
@@ -9453,7 +9379,6 @@
 ||u0b.0bj3i.ru^
 ||u0b.6aiiwi2.ru^
 ||u0b.7ph88.ru^
-||u0b.8d9691.online^
 ||u0b.lej75a.ru^
 ||u0b.rainst0ne.ru^
 ||u0b9.6x-3z.ru^
@@ -9720,7 +9645,6 @@
 ||v3.opaldrift.ru^
 ||v3.sproutkraft.ru^
 ||v3.t-nin.ru^
-||v3.t-pay3.ru^
 ||v31.7si-s.ru^
 ||v3d7.yw9a.online^
 ||v3n.2h7-o.ru^
@@ -9770,7 +9694,6 @@
 ||v9r.a-8-xp.ru^
 ||v9rx.4-l8u.ru^
 ||v9tc.7l-0b.ru^
-||v9x2.lb3091.online^
 ||v9y32.m1stybird.ru^
 ||va43.du2iv.ru^
 ||vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com^
@@ -10019,10 +9942,8 @@
 ||w0rdix.firew0rd.ru^
 ||w0t.shadowm1st.ru^
 ||w1.7n28r.ru^
-||w1.9wb-k.ru^
 ||w1.ba2q7q.ru^
 ||w1.ie45.ru^
-||w1.quakingconfined.digital^
 ||w1.quartzleaf.ru^
 ||w10ok.f1ercen1ivin.ru^
 ||w1b2ofrw.hi8hdukev1a.ru^
@@ -10415,7 +10336,6 @@
 ||wq.cl1ffwood.ru^
 ||wq.v-0-xenridge.ru^
 ||wq0.o4-lq-8.ru^
-||wq0n.zm6392.online^
 ||wq1.q7jt-0k.ru^
 ||wq7.1z22k.ru^
 ||wq7.y3-68c.ru^
@@ -10440,6 +10360,7 @@
 ||wwtalk.cyou^
 ||wwtalk.icu^
 ||www-martiansoftware-com.pages.dev^
+||www2.0zz0.com^
 ||www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com^
 ||www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com^
 ||wwwccompletesecurityllc90-117server1.s0t.ru^
@@ -10451,7 +10372,6 @@
 ||wylde.s0ftvale.ru^
 ||wytlaf.hump7yb0lt.ru^
 ||wz.3911.com^
-||wz.f-xiu4.ru^
 ||wz.owp-oo.ru^
 ||wz.t1va.ru^
 ||wz0.7nf214.ru^
@@ -10460,7 +10380,6 @@
 ||wztbj.cl1nkbarge.ru^
 ||wzu.ki8n.ru^
 ||x.068xaw.ru^
-||x.1vd-z.ru^
 ||x.64198.ru^
 ||x.7g37b.ru^
 ||x.8vl8u.ru^
@@ -10470,7 +10389,6 @@
 ||x.o-y3ii.ru^
 ||x.onyxmorgen.ru^
 ||x.u-na5.ru^
-||x.v-bua0.ru^
 ||x.wlh84.ru^
 ||x.yxb-au.ru^
 ||x0dn.11u812580.online^
@@ -10500,7 +10418,6 @@
 ||x2.ew-w3.ru^
 ||x2.saffronkern.ru^
 ||x2.velvetnebel.ru^
-||x2.x-ceu8.ru^
 ||x2cvg.sa3x.online^
 ||x2k8.g1zmobrain.ru^
 ||x2n.bestffriend.com^
@@ -10525,7 +10442,6 @@
 ||x5wk.ve1p.online^
 ||x64.x3le.ru^
 ||x7.5v05.ru^
-||x7.o-a4eu.ru^
 ||x7.plx-5.ru^
 ||x74.j-7m.ru^
 ||x7bk.49o103159.online^
@@ -10533,10 +10449,8 @@
 ||x7m.9i3mpa6.ru^
 ||x7m.op76.ru^
 ||x7md.3v-3y.ru^
-||x7p4.zm6392.online^
 ||x7xh.cl1nkbarge.ru^
 ||x8.13-yz.ru^
-||x8.9b9-7.ru^
 ||x8.i924ao.ru^
 ||x85.deepw0rd.ru^
 ||x8lb.6-w0y.ru^
@@ -10631,7 +10545,6 @@
 ||xozqet.gr-1-tfable.ru^
 ||xpub.ro^
 ||xpx.ra6n.ru^
-||xq.2f8-2.ru^
 ||xq.al1ah5natch.ru^
 ||xq.y742au.ru^
 ||xq8.6cm81.ru^
@@ -10662,6 +10575,7 @@
 ||xw.skysh1eld.ru^
 ||xword1.duckdns.org^
 ||xword3.duckdns.org^
+||xww.bucea.edu.cn^
 ||xx.stormf0rm.ru^
 ||xx6.ju8r.ru^
 ||xx8.alphacinder.digital^
@@ -10675,7 +10589,6 @@
 ||xyyk.darkm1nt.ru^
 ||xze.hollow-fizz.ru^
 ||xzoeg.m1stzone.ru^
-||y.bl8205.online^
 ||y0a3.1-b03-1q.ru^
 ||y0b7n.j0-e-t.ru^
 ||y0bn4.kzg-w-4y.ru^
@@ -10695,7 +10608,6 @@
 ||y2.02lxy3.ru^
 ||y2.b2-ra.ru^
 ||y2.compo5tc0or.ru^
-||y2.lb3091.online^
 ||y27.po5m.ru^
 ||y2aew.mossgate.ru^
 ||y2sk.30u241207.online^
@@ -10808,6 +10720,7 @@
 ||yjxm4.ever-mint.ru^
 ||yk5.mi7x.online^
 ||yk7vp5q0.arm2turege7m.ru^
+||ykapi.luyou.360.cn^
 ||ykf.windsh1eld.ru^
 ||ykh0q.plixhaven.ru^
 ||ykpb.cherl1ber7y.ru^
@@ -10894,13 +10807,10 @@
 ||z0tb.ha0m.online^
 ||z0wa.8j8-o.ru^
 ||z1.8g89.ru^
-||z1.9b9-7.ru^
 ||z1.crystalmoor.ru^
 ||z1.falconhimmel.ru^
 ||z1.i924ao.ru^
-||z1.o-a4eu.ru^
 ||z1.summitmond.ru^
-||z1.v-bua0.ru^
 ||z1.yxb-au.ru^
 ||z1mk.2h7-o.ru^
 ||z1mtk9.t1metalk.ru^
@@ -11084,7 +10994,6 @@
 ||zrq0.sun5park.ru^
 ||zs.b1tcrush.ru^
 ||zssxccxzzxx.lovestoblog.com^
-||zt.2f8-2.ru^
 ||zt.hyk5.ru^
 ||zt3.ripplerover.ru^
 ||zts.ha0m.ru^
