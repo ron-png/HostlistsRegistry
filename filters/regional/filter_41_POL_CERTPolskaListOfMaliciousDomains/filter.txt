@@ -1,12 +1,49 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.39
+! Version: 1.1.23.40
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-20T15:13:53.688Z
+! Last modified: 2026-01-20T16:13:51.428Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||stand0ff.shop^
+||escribirentiemposdeia.com^
+||spacehalos.com^
+||scoreclan.com^
+||skolgear.com^
+||gunpowdergrey.com^
+||divineforyou.com^
+||rentthatplace.com^
+||b3q8of.sbs^
+||fet.tracs-platforms.sbs^
+||arpegritem.rest^
+||cheats1.sbs^
+||va7pqp.hair^
+||onthehighlights.com^
+||ringkaro.com^
+||farmtofoodsolutions.com^
+||southhighcubsof76.com^
+||ontimehomeinspection.com^
+||100acreapps.com^
+||welcomestayy.com^
+||staywelcomed.com^
+||booking.centralrome2026.com^
+||eazystayhub.com^
+||solomares.com^
+||stayexperiencee.com^
+||reikihealthandwellbeing.com^
+||sundaystill.com^
+||distillerslog.com^
+||guidedcarehomes.com^
+||sandiegoashfamily.com^
+||unexpscarp.rest^
+||stayherenoww.com^
+||poczta-pl.hyziekol.cfd^
+||storybrewer.com^
+||rentalpropertywizard.com^
+||overome.com^
+||skolaroo.com^
 ||pressalud.com^
 ||bestayready.com^
 ||stayassistantt.com^
@@ -121531,5 +121568,3 @@
 ||allegrolokalnie.pl-firmowe-295.icu^
 ||investcanapp.net^
 ||veneziaoultsale.shop^
-||home-page-new-2025-pll.ubpages.com^
-||allegrolokalnie.p12882724.click^

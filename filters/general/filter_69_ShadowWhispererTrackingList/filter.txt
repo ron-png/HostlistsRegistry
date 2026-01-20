@@ -1,9 +1,9 @@
 !
 ! Title: ShadowWhisperer Tracking List
 ! Description: Blocks domains related to analytics, diagnostics, metrics, location, and public IP detection.
-! Version: 1.0.2.42
+! Version: 1.0.2.43
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2026-01-18T06:12:05.679Z
+! Last modified: 2026-01-20T16:13:30.641Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -14,8 +14,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 114,023
-# Updated: 1/18/2026  00:11 (12:11 AM CST)
+# Domains: 114,026
+# Updated: 1/20/2026  10:07 (10:07 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -16648,6 +16648,7 @@
 ||api.peers.tv^
 ||api.persoonaschool.com.br^
 ||api.petloo.com.br^
+||api.pf.hibid.com^
 ||api.pg.maggicaminhoes.com.br^
 ||api.pharmgkb.org^
 ||api.pilarglass.com.br^
@@ -51875,6 +51876,7 @@
 ||metrics.curbed.com^
 ||metrics.curiowellness.com^
 ||metrics.currys.co.uk^
+||metrics.cursor.sh^
 ||metrics.cycleworld.com^
 ||metrics.cyrillus.de^
 ||metrics.cytivalifesciences.com^
@@ -61265,6 +61267,7 @@
 ||ota.mistergreen.nl^
 ||ota.re-covers.nl^
 ||otel-hfo.fareharbor.engineering^
+||otelrules.svc.static.microsoft^
 ||oteplia.com^
 ||otfim.gurunanda.com^
 ||otfur.craneandcanopy.com^
