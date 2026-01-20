@@ -1,12 +1,66 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.33
+! Version: 1.1.23.34
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-20T08:13:23.562Z
+! Last modified: 2026-01-20T09:15:43.865Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||696f22f20f18e4d268af5cf7--adorable-alfajores-52f938.netlify.app^
+||locre.info^
+||squintpsl.rest^
+||estudiomoriah.com^
+||lana-abidjan.com^
+||faithfull-partners.com^
+||jeunessechretienne.com^
+||groupeorcaya.com^
+||unequalwslice.cyou^
+||phocusanda.com^
+||famowaypro.com^
+||evo-logis.com^
+||lighthillpictures.com^
+||lavage-moquette-app.com^
+||lrbeauties.com^
+||gabar-ewwe.com^
+||safar-brons.com^
+||maltrpiall.rest^
+||entertainergun.sbs^
+||njdcuet.oplata.homes^
+||pkobppromo.info^
+||infommastione.mov^
+||interworld-exchange.com^
+||espace-meditation68.com^
+||lionscribmedia.com^
+||huriha.com^
+||gtclgovtbd.com^
+||wearimcstyle.com^
+||k3rsidbeatz.com^
+||poczta.home.pl-aktualizacja.access.ly^
+||creditboostersusa.com^
+||shreenathji.org^
+||emuhasebeci.com^
+||a2jsuites.com^
+||santaderonline.com^
+||savinart.com^
+||premiumntb.com^
+||foodmenukcal.com^
+||airflowhouston.com^
+||dubaiwomencommitte.com^
+||casasdeamor.org^
+||gujaratculture.org^
+||natures-ca.org^
+||easybuy-mallorca.com^
+||flames-burgers.com^
+||zarabeu.com^
+||sternspark.rest^
+||b2bwithtinubu.org^
+||ikoe.org^
+||ibtradinglda.com^
+||nehweddingphotography.com^
+||cbaeqroup.org^
+||astraccc.org^
+||fluxmatglobalb2b.com^
 ||nalwopa.bwpsites.com^
 ||stromam.cfd^
 ||buycocaineonlineus.com^
@@ -121190,6 +121244,3 @@
 ||www.saficet.com^
 ||www.powertooldepots.com^
 ||pl-ogloszenia-firmowe-935124.cfd^
-||pjuknydjd0.sitataditt.shop^
-||vlnted.642812.icu^
-||gentlepath.co^
