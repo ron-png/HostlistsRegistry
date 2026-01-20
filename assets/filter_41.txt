@@ -1,12 +1,69 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.38
+! Version: 1.1.23.39
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-20T14:14:51.983Z
+! Last modified: 2026-01-20T15:13:53.688Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||pressalud.com^
+||bestayready.com^
+||stayassistantt.com^
+||ourstayguest.com^
+||discoverarg.com^
+||ryanandhallie.com^
+||sobeshoe.com^
+||arabacademyedu.com^
+||vinted.56412941.cc^
+||academiadrone.com^
+||schweetjuice.com^
+||parchslivo.rest^
+||my-hotel-dashboard.com^
+||southfieldkennel.com^
+||ar-rasiyat.com^
+||rymaxre.com^
+||southwestbullion.com^
+||room-key-digital.com^
+||your-reservation-desk.com^
+||stay-experience-manager.com^
+||guest-stay-hub.com^
+||vivamode.top^
+||welcome-guest-system.com^
+||hotel-assist-online.com^
+||disnehydro.rest^
+||roninpress.com^
+||3cubedservices.com^
+||southmiamikarate.com^
+||stocktradinghackers.com^
+||ssmetrust.com^
+||ronekai.com^
+||schoolsafrica.com^
+||ronenwilson.com^
+||checkin-process-easy.com^
+||premier-stay-portal.com^
+||tipezee.com^
+||sandiegolaboratoryspace.com^
+||sellreps.com^
+||skincenterdirect.com^
+||schoolforecaster.com^
+||dirtyhippyseeds.com^
+||plataformadecertificados.com^
+||festivalbernabeu.com^
+||vendercasaurgente.com^
+||booking-and-stay.com^
+||s1k0ui.sbs^
+||nowe-20-01-26-pl.top^
+||alebilet.pl-8272551515howtafva16514178jagagbj7.sbs^
+||moldpincen.rest^
+||accessverify.skylandobservatory.de^
+||vrbo.eu-62073618257-holiday.homes^
+||animation8.com^
+||sochsafalkendra.com^
+||sulalabs.com^
+||3aum.com^
+||apartamentoscantaro.com^
+||h2andalucia.com^
 ||nugigyo.com^
 ||patternmpuun.com^
 ||grut.top^
@@ -121476,15 +121533,3 @@
 ||veneziaoultsale.shop^
 ||home-page-new-2025-pll.ubpages.com^
 ||allegrolokalnie.p12882724.click^
-||allegrolokalnie.p141532442.click^
-||olx-dostawa.conformation100.shop^
-||www.brwonline-pl.shop^
-||goshop365.com^
-||marketrandstad.com^
-||lolalizasales.shop^
-||www.gunqifei.shop^
-||pl-oferta426954.icu^
-||pl-oferta8364725434.com^
-||pl-kategorie0045157648834.icu^
-||pl-oferta627954.icu^
-||oferta4642331243.com^
