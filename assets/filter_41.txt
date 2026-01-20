@@ -1,12 +1,75 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.35
+! Version: 1.1.23.36
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-20T10:12:13.482Z
+! Last modified: 2026-01-20T11:10:54.685Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||stylewardrobe.top^
+||cosibellasale.top^
+||k0b8vo.sbs^
+||moja-paczka.dizenaki.cyou^
+||v2r8tl.lol^
+||e8a6gv.sbs^
+||y3c4xn.lol^
+||r8n7sq.lol^
+||o7m2je.lol^
+||f1w9yk.sbs^
+||l5q0tu.lat^
+||g7c1jw.sbs^
+||p9t6de.sbs^
+||m2f4yx.lat^
+||d0p7iq.lat^
+||togoniger.com^
+||germb.com^
+||wera-info.com^
+||recruit-hbc.com^
+||clienspark.click^
+||www-ahrefs-co.cargo.site^
+||arekpro.com^
+||silvereagleinvestors.com^
+||gulfcoastbeachphotos.com^
+||booksannex.com^
+||boostawards.com^
+||boomboox.com^
+||moevr.net-platnosc.shop^
+||whitakeryara.shop^
+||exkjzc.net-platnosc.shop^
+||buildnyv.com^
+||nasirinvestmentsgroup.com^
+||rimutdiagn.rest^
+||harmoonious.com^
+||pacificvalleychiropractic.com^
+||olx.pl-smart625161.sbs^
+||guardianaffinity.com^
+||reallifeperformance.com^
+||sunstrandty.info^
+||garmentgrid.top^
+||web-activaciones.com^
+||bojono.com^
+||eobuwie.cccosibella-pl.sbs^
+||radducyre.rest^
+||designfdct.com^
+||dkmotorsportsinc.com^
+||luku-partners.com^
+||pltoday7.convertri.com^
+||lyziwoy0.com^
+||www.inpost.one^
+||www.ochnikoutlet.sbs^
+||podatkl-gov-pl.online^
+||auralix.cyou^
+||poemtfhcf.com^
+||patterndyo.com^
+||lsi-holding.com^
+||ariariamarket.com^
+||ftefmti876.s3.us-east-1.amazonaws.com^
+||boostedwarriorracing.com^
+||dlhfamily.com^
+||webmailz.appwrite.network^
+||wigasto.com^
+||klientzi.net^
 ||www.smykdla-dzieci.shop^
 ||outliunder.rest^
 ||www.mooreamelia.shop^
@@ -4164,7 +4227,6 @@
 ||nocheatcodes.com^
 ||canthditri.pro^
 ||pl-oferta893172.sbs^
-||doz.cosibellasale.top^
 ||encasmaligi.rest^
 ||soleafinvex.net^
 ||gauchstill.pro^
@@ -121271,8 +121333,3 @@
 ||pl-oferta8537428463.com^
 ||s3nmaf.icu^
 ||managesecure.log-in.information-reactivate-statement.billed.aldeonline.com^
-||ashtrayhaven.com^
-||mintergo.top^
-||www.vintedspb.shop^
-||hynohoe.shop^
-||allegrolokalnie.pzs-45141422.rest^
