@@ -1,12 +1,46 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.26
+! Version: 1.1.23.27
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-20T01:38:02.409Z
+! Last modified: 2026-01-20T02:48:48.867Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||tehc-healthcare.online^
+||cleancofa.click^
+||sbolzrecap.rest^
+||seeqnut.shop^
+||tearlpotato.sbs^
+||allegrolokalnie.4kgkdscmk34g.sbs^
+||eki-post.online^
+||grandiorpraguehotel.com^
+||grandiumpraguehotel.com^
+||experimentssame.nkviduu.com^
+||acerbdelus.rest^
+||wersierail.com^
+||teucrinvel.rest^
+||tassososta.rest^
+||immediate-zenx.com^
+||immediatewir7pai.net^
+||quarion-optibot.net^
+||greenwox-funnel.net^
+||oomae.sbs^
+||padderjik.cfd^
+||videossdfjfg.xyz^
+||telegramweb.cfd^
+||realcheck.cfd^
+||kkkegl5543.icu^
+||ordexiasignal-app.com^
+||spherex-evolve.net^
+||royalnex.net^
+||tensakuai.net^
+||cleorisluxeris.com^
+||cleste-finluxor.com^
+||vorentlavia-app.net^
+||bossbytex.net^
+||itaneltrix-app.net^
+||synor-quantel.net^
 ||areascell.click^
 ||allegrolokalnie.7388110.qpon^
 ||dacrylimos.rest^
