@@ -1,12 +1,75 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.55
+! Version: 1.1.23.56
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-21T08:13:12.064Z
+! Last modified: 2026-01-21T09:14:57.124Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||amuqam.pro^
+||massimobitpuls.com^
+||magnumator-2-0.com^
+||brillantfinspirex-app.com^
+||majestfundalis.net^
+||malinvexo.com^
+||mankolux-app.com^
+||miraichain-ai.com^
+||mezanixio-app.com^
+||magnumator-official.com^
+||magyarorszagbitappv7.com^
+||metodo-berlusconi.com^
+||metatradelux.com^
+||manewaul.com^
+||mexvorin-app.net^
+||modebitnex.net^
+||monvaul-app.com^
+||xx7xwg.cyou^
+||olx.weedalon.cfd^
+||olx.vizdekal.cfd^
+||rimordisba.rest^
+||xejobiy.com^
+||ln6ost.x8yolb.lat^
+||silvertogoldcoaching.com^
+||steamsignals.com^
+||avxdex.org^
+||ihrvietnam.com^
+||guvenfresh.com^
+||fastracksaudiarabia.com^
+||starktopia.com^
+||opsectrack.com^
+||olx.bikedalo.cfd^
+||paczka.winzedolo.cyou^
+||poczta-pl.vinzodel.cfd^
+||paczka.dizenaki.cyou^
+||vertex-capital-ai-app.com^
+||qeciseu3.com^
+||servicesforlandlord.com^
+||totetrend.top^
+||freshfits.top^
+||retailzone.top^
+||gucyxae5.com^
+||cloudbankd.info^
+||flowaro.site^
+||allegro.lebenlang.tr^
+||ogrlam.top^
+||stillpointd.info^
+||one9.news24fresh.com^
+||zurigyi.com^
+||dimidriful.rest^
+||adanconsultancy.com^
+||andersonscarlett.shop^
+||cookwithro.club^
+||fuzzyterr.zumvio.com^
+||qakivyy.pro^
+||uquqox.online^
+||simibrick.com^
+||rocukegij.top^
+||dogiwai4.com^
+||upstacoinc.rest^
+||biougfold.pl^
+||roadprogress.com^
+||alebilet.037363.cfd^
 ||lesivstrep.rest^
 ||polarrealmsg.info^
 ||tuychu.digital^
@@ -121554,13 +121617,3 @@
 ||chainworxl.top^
 ||premiumprivatehire.com^
 ||supportingchildrenwithburns.com^
-||acclasthen.pro^
-||aggradispa.pro^
-||pl-oferta826327524.com^
-||gooweb02.ornegapescados.com^
-||nexbite.top^
-||nexbitz.top^
-||allegrolokalnie.yb102.sbs^
-||sissyboyssales.shop^
-||universityofmusicology.com^
-||photomitri.pro^
