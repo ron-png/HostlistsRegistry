@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's Gambling Blocklist
 ! Description: Blocks gambling content.
-! Version: 1.0.25.18
+! Version: 1.0.25.19
 ! Homepage: https://github.com/hagezi/dns-blocklists#gambling
-! Last modified: 2026-01-20T11:10:43.712Z
+! Last modified: 2026-01-21T00:37:19.584Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -62534,7 +62534,6 @@
 ||betsatlom.vip^
 ||betsatnru.vip^
 ||betsatruz.vip^
-||betsatta.com^
 ||betsatu.kim^
 ||betsatu.sarl^
 ||betsatu.vin^
@@ -85152,7 +85151,6 @@
 ||comeoncasinobet.com^
 ||comeonwetten.de^
 ||comeplay88.com^
-||comerciodesdecasa.com^
 ||comevincerealblackjackonline.click^
 ||comevincerealcasinoonline.com^
 ||comforbets.cfd^
@@ -88956,7 +88954,6 @@
 ||divineslots4.bond^
 ||divineslots5.bond^
 ||divinoplay.com^
-||divithospital.com^
 ||divorce-parties.com^
 ||diwatavip.com^
 ||diyarbetcasino.com^
@@ -138145,7 +138142,6 @@
 ||pasarpoker1.wtf^
 ||pasarpoker88.xyz^
 ||pasartogel168.bet^
-||pasblog.com^
 ||pascasino-1.vip^
 ||pascoa888.com^
 ||pascoakff.com^
@@ -164042,7 +164038,6 @@
 ||totojituabadi1.com^
 ||totojudiumami.xyz^
 ||totojudiwaw.xyz^
-||totojudiwow.top^
 ||totolotek.pl^
 ||totomajalah4d.com^
 ||totomalika.com^

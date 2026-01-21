@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.88.0
+! Version: 1.0.88.1
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-01-20T22:09:05.242Z
+! Last modified: 2026-01-21T00:37:09.244Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1004,7 +1004,6 @@
 ||4ur.click^
 ||4ureyesonly.com^
 ||4v6a7i3dkz.com^
-||4vci8kxg42cg8hnewmeo5u.cfd^
 ||4wbvq8yl2.com^
 ||4webmasters.com^
 ||4wg67b9vb.com^
@@ -2097,7 +2096,6 @@
 ||aawfewvoclrhp.online^
 ||aawspeedy.com^
 ||aax.amazon-adsystem.com^
-||aayoqdsmvcf.com^
 ||ab-log.datahou.se^
 ||ab.4wank.com^
 ||ab.blogs.es^
@@ -2448,7 +2446,6 @@
 ||acmsa.com.ar^
 ||acmwyrhmvxycw.life^
 ||acneforums.com^
-||acobnnvet.com^
 ||acorncranberrycrayfish.com^
 ||acornfacilitatechecking.com^
 ||acornfarmerconnate.com^
@@ -5040,7 +5037,6 @@
 ||alladvantage.com^
 ||allanimehentai.com^
 ||allayselect.com^
-||allaysplaners.shop^
 ||allboard.xobor.de^
 ||allbqusgepzmf.store^
 ||allegationbody.com^
@@ -7783,7 +7779,6 @@
 ||bca10c62ca.com^
 ||bcafchldfejnd.online^
 ||bccqnruipevxy.website^
-||bccvmiowktvd.com^
 ||bcfads.com^
 ||bcgwetajinklt.website^
 ||bcgzqzjkyjmfd.store^
@@ -12353,7 +12348,6 @@
 ||csaibzsnbxpym.site^
 ||csbhmxgelwqud.store^
 ||cschyogh.com^
-||csdvqmnlut.com^
 ||cse.rakanto.com^
 ||csephkkcdkljz.club^
 ||csfuiuwdubtyr.online^
@@ -20385,7 +20379,6 @@
 ||graduateangeles.com^
 ||graduationpaltryherbal.com^
 ||graffiti-tags.apple.com^
-||grageptoniro.net^
 ||grairdulourde.net^
 ||graithexpire.com^
 ||graitsie.com^
@@ -22164,7 +22157,6 @@
 ||hypocrisysmallestbelieving.com^
 ||hypollsteceful.com^
 ||hyraterook.com^
-||hyrewusha.pro^
 ||hysteriafiring.com^
 ||hysteriahung.com^
 ||hyt.comp.360os.com^
@@ -24957,7 +24949,6 @@
 ||krmsqcfoluzxj.space^
 ||krmxearc1.com^
 ||krngnvshfi.com^
-||krnnibimmphidn.com^
 ||krofqawozfnma.website^
 ||kropka.onet.pl^
 ||krtnyognzagow.online^
@@ -25005,7 +24996,6 @@
 ||ktrgtteucxzzu.website^
 ||ktsnqchncbimr.space^
 ||ktu.sv2.biz^
-||ktwojdxabmh.com^
 ||ku2d3a7pa8mdi.com^
 ||ku34bh9la09.com^
 ||ku42hjr2e.com^
@@ -25574,7 +25564,6 @@
 ||lfonatbarmco.com^
 ||lfstmedia.com^
 ||lftcph.icu^
-||lfwhbxucjgssr.online^
 ||lfwieehqopggy.website^
 ||lfxgbzxkfqhiy.space^
 ||lfzibowrxoftr.online^
@@ -26777,7 +26766,6 @@
 ||luhzoywwssycd.online^
 ||luimg.baidu.com^
 ||luizsycwgzmkg.website^
-||lujcnywyp.com^
 ||lukeinoffensive.com^
 ||lukrqrzkmiwst.online^
 ||lulkckpzirebi.space^
@@ -28511,7 +28499,6 @@
 ||mptentry.com^
 ||mptgate.com^
 ||mptkltomzlexc.site^
-||mptwhbihzdpjj.website^
 ||mputq031w.com^
 ||mpvmbjbalqjyc.online^
 ||mpwhizbkgewzg.vip^
@@ -28533,7 +28520,6 @@
 ||mqqad.html5.qq.com^
 ||mqs.ioam.de^
 ||mqszaiyafukar.online^
-||mquk8v2e2q963bb.cfd^
 ||mquoemywissvp.tech^
 ||mqutibglqfjmq.website^
 ||mqvijftiyzuig.online^
@@ -30066,7 +30052,6 @@
 ||nylonnickel.xyz^
 ||nylonthrillingplanned.com^
 ||nylwyklyegeog.website^
-||nylzgfqmknvsm.space^
 ||nymiuktoxqoue.space^
 ||nymsdhtpngjip.space^
 ||nyquazhpvouya.website^
@@ -33438,7 +33423,6 @@
 ||psoabojaksou.net^
 ||psoailuny.cfd^
 ||psockapa.net^
-||psodsaiwuftirt.com^
 ||psonstrentie.info^
 ||psoroumukr.com^
 ||psossachaurdoo.com^
@@ -34128,7 +34112,6 @@
 ||qlymjkshghifu.space^
 ||qmajkwvzedcfi.site^
 ||qmavyy.icu^
-||qmciyxoswb.com^
 ||qmdjlaztiuhcp.site^
 ||qmds-dev-samsung.com^
 ||qmefcejujmezq.website^
@@ -37384,7 +37367,6 @@
 ||semqraso.net^
 ||semygruja.com^
 ||semywtuvmzujq.space^
-||sendeeliquifypargos.cyou^
 ||sendexcepting.com^
 ||sendmepush.com^
 ||senegaspay.cyou^
@@ -38244,7 +38226,6 @@
 ||slushycharacter.com^
 ||slview.psne.jp^
 ||slvijdtvksmjv.store^
-||slxawfuddjurq.site^
 ||sm-cloud.yunsafe.top^
 ||sm-rtb-useast.zmdvideo.com^
 ||sm2ralisg.com^
@@ -38647,7 +38628,6 @@
 ||sp.desertsun.com^
 ||sp.desmoinesregister.com^
 ||sp.detroitnews.com^
-||sp.dnj.com^
 ||sp.dnqc.com^
 ||sp.dpgmedia.net^
 ||sp.fdlreporter.com^
@@ -41314,7 +41294,6 @@
 ||tfb7jc.de^
 ||tfeableandwo.org^
 ||tfflrmlygarjj.online^
-||tfgskelvojntao.com^
 ||tfla.xyz^
 ||tflurbzcqgpii.website^
 ||tfomxpkyvdzyi.space^
@@ -41424,7 +41403,6 @@
 ||thickspaghetti.com^
 ||thickteaching.com^
 ||thighlemonadejell.com^
-||thignoalro.com^
 ||thimblestrangearchitect.com^
 ||thind-gke-euw.prd.data.corp.unity3d.com^
 ||thingsmadenavy.com^
@@ -43085,7 +43063,6 @@
 ||ttfoetfeswjwn.space^
 ||ttgkpyinpasee.space^
 ||ttgmjfgldgv9ed10.com^
-||tthqlcjcpfxfu.site^
 ||ttidwdlgc.com^
 ||ttihclkpugctw.website^
 ||ttikombrmmygx.store^
@@ -43463,7 +43440,6 @@
 ||uc.ucweb.com^
 ||uc9.ucweb.com^
 ||ucationininance.org^
-||ucbzoitwrdlkn.website^
 ||uccfioqedzfom.site^
 ||ucdn.adgebra.co^
 ||ucdwezftjdksn.site^
@@ -44351,7 +44327,6 @@
 ||uzocxzrbkcrpk.online^
 ||uzpuaveerqjei.site^
 ||uzpwejzqjtqdg.store^
-||uzrwexfn.com^
 ||uzukakccaflam.space^
 ||uzzxkatxegdzh.website^
 ||v-collector.dp.aws.charter.com^
@@ -44728,7 +44703,6 @@
 ||vgtevnzhlujfv.website^
 ||vgukgvtglfjnp.space^
 ||vgutxnvrwydey.website^
-||vgwdbursxwdfx.website^
 ||vgxmagbsctvdf.online^
 ||vgzglvykuyclh.store^
 ||vhbbeareiglah.website^
@@ -45375,7 +45349,6 @@
 ||w138.redlandsdailyfacts.com^
 ||w149.lowellsun.com^
 ||w2j4kdjma.com^
-||w2le1o66k351rkzm8.cfd^
 ||w3-reporting-nel.reddit.com^
 ||w3-reporting.reddit.com^
 ||w3cfba6ufr.com^
@@ -45524,7 +45497,6 @@
 ||wasangomartens.com^
 ||wasgildedallo.org^
 ||wasgvfoivfaop.store^
-||washingoccasionally.com^
 ||washiscourtship.com^
 ||washokufinder.lol^
 ||wasm.stream^
@@ -45887,7 +45859,6 @@
 ||wevrwqjlylbrr.top^
 ||wevrwqjlylbyz.top^
 ||wewikdaksmlyw.online^
-||wexabqmwpozrl.online^
 ||wexevoom.net^
 ||wextap.com^
 ||wexwujojvhamp.space^
@@ -46799,7 +46770,6 @@
 ||x011bt.com^
 ||x05occvjw.com^
 ||x0r.urlgalleries.net^
-||x1.52aoteman.com^
 ||x1c9gze9i.com^
 ||x24hr.com^
 ||x2tsa.com^
@@ -47037,7 +47007,6 @@
 ||xkpbcd.com^
 ||xkrjuicspjipi.store^
 ||xkronawgqyuia.site^
-||xksnljwjifurr.website^
 ||xkspgkdejobec.site^
 ||xktoy8fub.com^
 ||xkucamlcuaqk.com^
@@ -47852,7 +47821,6 @@
 ||xvuaguwvreldr.space^
 ||xvubvlxeyfmjn.store^
 ||xvuslink.com^
-||xvvdxushzwlgh.space^
 ||xvxboavgkjuex.website^
 ||xwfafjiihnpmy.space^
 ||xwgkbcbvjjvxr.website^
