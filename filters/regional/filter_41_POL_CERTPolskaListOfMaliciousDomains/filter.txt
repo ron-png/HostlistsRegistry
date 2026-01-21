@@ -1,12 +1,20 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.65
+! Version: 1.1.23.66
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-21T18:20:44.600Z
+! Last modified: 2026-01-21T19:14:56.765Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||pl-54976.sbs^
+||stayassistnow.com^
+||confirmation-id4374624.com^
+||readyguestportal.com^
+||watsonautumn.shop^
+||goalset.digital^
+||goalpathway.digital^
+||growtrail.digital^
 ||ray-banpick.club^
 ||09511.click^
 ||gift-marathons.cc^
@@ -152,7 +160,6 @@
 ||insideoutofhome.com^
 ||justusamericans.com^
 ||iantideydrivingtuition.com^
-||allegrolokalnie.pl-54976.sbs^
 ||pl-21783.icu^
 ||stepnext.digital^
 ||robolingo.com^
@@ -122136,11 +122143,3 @@
 ||revisionstide.lat^
 ||pl-51873.icu^
 ||pi-katlegoria-reszta-3209c7.rest^
-||nendrufel.vercel.app^
-||lnpost.paczkaprzezstrona24h.shop^
-||pl-ogloszenia-firmowe-82391.icu^
-||allegrolokalnie.783245.rest^
-||ideastep.info^
-||pl-kategorie78127316267412.shop^
-||jjurimmfxx.trevonb.world^
-||ln-p0st.j6cekc.skin^
