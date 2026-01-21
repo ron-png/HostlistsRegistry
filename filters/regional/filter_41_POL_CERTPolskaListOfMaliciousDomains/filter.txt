@@ -1,27 +1,28 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.48
+! Version: 1.1.23.49
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-21T01:38:24.366Z
+! Last modified: 2026-01-21T02:47:28.862Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||stitcabbat.rest^
+||megga4track.info^
+||valoqexro.net^
+||kamovex-app.com^
+||greystone-modevo.net^
+||net-platnosc.shop^
 ||nistasuper.rest^
 ||pathqdrip.cyou^
-||tdrlkxmy.net-platnosc.shop^
 ||pacificchiropractic.com^
 ||stayassistly.com^
 ||a14timecritical.com^
 ||freshwaya.com^
 ||www.cooperjason.shop^
-||dxcvfjtah.net-platnosc.shop^
 ||welcomestayer.com^
-||tasbxjlf.net-platnosc.shop^
 ||vllerinde.rest^
-||zsyhbma.net-platnosc.shop^
 ||expecdenun.rest^
-||hpufb.net-platnosc.shop^
 ||tut.accounts-verify-rea.sbs^
 ||convesoon.icu^
 ||invisduenn.rest^
@@ -40,7 +41,6 @@
 ||gueststayly.com^
 ||stayreadyhub.com^
 ||walkwear.top^
-||vnpiqtml.net-platnosc.shop^
 ||touchxyellow.biz^
 ||pl-oferta7543443222344.cfd^
 ||oferta-1506.cfd^
@@ -54,7 +54,6 @@
 ||oferta-3641668.pl^
 ||pl-039223-szybki.click^
 ||www.vivamart.club^
-||ycpdh.net-platnosc.shop^
 ||pl-oferta6310.sbs^
 ||pl-smart9201.pl^
 ||pl-oferta8167231-sprzedam-macbook-m1-pro.sbs^
@@ -154,25 +153,16 @@
 ||checkkey.shop^
 ||quickmac.cyou^
 ||hypertorni.rest^
-||dinzfxy.net-platnosc.shop^
 ||editilearn.shop^
 ||wavyinve.sbs^
-||aefjwbrhu.net-platnosc.shop^
-||trpyq.net-platnosc.shop^
 ||lifeupx.com^
-||hezlinrao.net-platnosc.shop^
-||abuvym.net-platnosc.shop^
 ||pathupgo.com^
 ||gasinvestingsolutions.com^
 ||umettgastr.rest^
 ||earlystreet.cyou^
-||suiqdzv.net-platnosc.shop^
 ||creneconte.rest^
 ||pathaims.com^
 ||guestestay-app.com^
-||strku.net-platnosc.shop^
-||zfkrvd.net-platnosc.shop^
-||pjcwkgqu.net-platnosc.shop^
 ||saasrepare.com^
 ||guest-stay-app.com^
 ||olxdostawa.info^
@@ -190,7 +180,6 @@
 ||olx.shop-skrillpay.cfd^
 ||nilavacav.icu^
 ||styletrend.club^
-||itkclenrw.net-platnosc.shop^
 ||wv5zqs.lat^
 ||nacionalidadsefardita.com^
 ||operationx.com^
@@ -203,7 +192,6 @@
 ||misstfessu.rest^
 ||gltox.com^
 ||ynetw.biz^
-||hpdogcz.net-platnosc.shop^
 ||sparktronica.com^
 ||best-western-cloud.com^
 ||botlanne.site^
@@ -218,7 +206,6 @@
 ||scottkellyhomebuilding.com^
 ||gurudwarascsny.com^
 ||savan-svaas.com^
-||ujfty.net-platnosc.shop^
 ||stratagembjj.com^
 ||stanotech.com^
 ||satcobooking.com^
@@ -231,9 +218,6 @@
 ||gabilanche.com^
 ||zaviastudio.com^
 ||platfmake.click^
-||jviecoq.net-platnosc.shop^
-||duceyw.net-platnosc.shop^
-||zweckjq.net-platnosc.shop^
 ||www.dla-dzieci.shop^
 ||giustthrou.rest^
 ||golzav.info^
@@ -545,9 +529,7 @@
 ||booksannex.com^
 ||boostawards.com^
 ||boomboox.com^
-||moevr.net-platnosc.shop^
 ||whitakeryara.shop^
-||exkjzc.net-platnosc.shop^
 ||buildnyv.com^
 ||nasirinvestmentsgroup.com^
 ||rimutdiagn.rest^
@@ -852,7 +834,6 @@
 ||werinkomanie.com^
 ||pinzatrink.rest^
 ||najanudiffi.rest^
-||btfgyjmx.net-platnosc.shop^
 ||wcoll.cyou^
 ||cdkaf331rk.xyz^
 ||bestindonesia.icu^
@@ -1068,7 +1049,6 @@
 ||jeraque.com^
 ||dazzling-suds.com^
 ||pictolaiti.com^
-||ltexhp.net-platnosc.shop^
 ||ringalead.tm3ai.com^
 ||news15pl.convertri.com^
 ||mataatuegoderisa.com^
@@ -1153,7 +1133,6 @@
 ||werbaaml.com^
 ||ne4ondrive.info^
 ||createbxlsh.com^
-||gvdqkm.net-platnosc.shop^
 ||nightofmercy.org^
 ||riverofpeace.blog^
 ||neighborhoodchronicle.blog^
