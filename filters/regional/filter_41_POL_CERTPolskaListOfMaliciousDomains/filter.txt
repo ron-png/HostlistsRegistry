@@ -1,12 +1,27 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.47
+! Version: 1.1.23.48
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-21T00:37:31.557Z
+! Last modified: 2026-01-21T01:38:24.366Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||nistasuper.rest^
+||pathqdrip.cyou^
+||tdrlkxmy.net-platnosc.shop^
+||pacificchiropractic.com^
+||stayassistly.com^
+||a14timecritical.com^
+||freshwaya.com^
+||www.cooperjason.shop^
+||dxcvfjtah.net-platnosc.shop^
+||welcomestayer.com^
+||tasbxjlf.net-platnosc.shop^
+||vllerinde.rest^
+||zsyhbma.net-platnosc.shop^
+||expecdenun.rest^
+||hpufb.net-platnosc.shop^
 ||tut.accounts-verify-rea.sbs^
 ||convesoon.icu^
 ||invisduenn.rest^
@@ -121606,10 +121621,3 @@
 ||alebilet.pl-ogloszenie-9726039.icu^
 ||olx.pl-ogloszenie-9726039.icu^
 ||allegro.pl-ogloszenie-9726039.icu^
-||mokuvo.rewardloopnow.com^
-||ghjfgejr.sbs^
-||alebilet.pl-64826.icu^
-||allegrolokalnie.pl-64826.icu^
-||olx.pl-64826.icu^
-||allegro.pl-64826.icu^
-||pl-kategorie981234899357.shop^
