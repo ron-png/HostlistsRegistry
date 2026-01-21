@@ -1,12 +1,69 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.64
+! Version: 1.1.23.65
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-21T17:28:51.372Z
+! Last modified: 2026-01-21T18:20:44.600Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||ray-banpick.club^
+||09511.click^
+||gift-marathons.cc^
+||byxasue.com^
+||confirmation-id4375522.com^
+||pl-2417976.cfd^
+||novelpluri.rest^
+||newpathgo.com^
+||newjourney.digital^
+||validolka.icu^
+||promofriday.club^
+||novatrend.club^
+||sanchezaiden.shop^
+||hughesallison.shop^
+||remvpol.top^
+||parkerlucas.shop^
+||featuredproducts.club^
+||mooreamelia.shop^
+||zielinskiomar.shop^
+||7yearsago.org^
+||funkoonlinegb.club^
+||myfashion.top^
+||lolijinexo.com^
+||kijola.pro^
+||pl-977023.icu^
+||gasrising.com^
+||confirmation-id4374622.com^
+||elseemerald.click^
+||effervescentag.info^
+||hzdeichmannshop.club^
+||huasaicats.com^
+||riappupsko.rest^
+||utfspdr.wplata.lat^
+||fysiqyu.com^
+||rifaviajes.net^
+||khsouq.com^
+||idiomasrionegro.com^
+||62880.click^
+||pl-oferta783978.sbs^
+||pl-2413676.cfd^
+||rpmfacvzh.wplata.lat^
+||blackwoodgideon.shop^
+||thomaskatherine.shop^
+||quietmetricc.site^
+||apparelhaven.top^
+||columbitr.top^
+||gxcebviu.wplata.lat^
+||jonesliam.shop^
+||stylefootrs.club^
+||vivamart.club^
+||allumdecon.rest^
+||rodriguezlucas.shop^
+||hayesisabella.shop^
+||olx.09910.click^
+||allegro.09910.click^
+||vinted.09910.click^
+||floresjulian.shop^
 ||evanscamila.shop^
 ||10mbet.net^
 ||purebuy.club^
@@ -939,7 +996,6 @@
 ||pl-oferta2630071-samsung-galaxy-tab-s9-ultra.sbs^
 ||oferta-3641668.pl^
 ||pl-039223-szybki.click^
-||www.vivamart.club^
 ||pl-oferta6310.sbs^
 ||pl-smart9201.pl^
 ||pl-oferta8167231-sprzedam-macbook-m1-pro.sbs^
@@ -1451,7 +1507,6 @@
 ||klientzi.net^
 ||www.smykdla-dzieci.shop^
 ||outliunder.rest^
-||www.mooreamelia.shop^
 ||safereading.pro^
 ||ideanjb.com^
 ||ansonlow.com^
@@ -2049,7 +2104,6 @@
 ||chloemoda.com^
 ||www.tooles-sklep.shop^
 ||hunoducate.com^
-||alebilet.62880.click^
 ||alebilet.53468.sbs^
 ||fernandaprieto.com^
 ||sketchmzz.com^
@@ -48387,7 +48441,6 @@
 ||webm0026.t3.storage.dev^
 ||refund-disneyvod.com^
 ||nbach-6267.twil.io^
-||www.novatrend.club^
 ||1hbhv.cfd^
 ||onlinedocuments-getresponse.pcdqnxhhtryne.live^
 ||yuzgenclestirmeankara.com^
