@@ -1,12 +1,49 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.66
+! Version: 1.1.23.67
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-21T19:14:56.765Z
+! Last modified: 2026-01-21T20:13:52.853Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||slicecoi.club^
+||whytedata.com^
+||allegrolokalnie.2m3io34-2.sbs^
+||dostw-131.shop^
+||sunxmoment.click^
+||guest-resarvashionhubz.com^
+||infatinsan.rest^
+||allegrolokalnie.p4ovdic2.sbs^
+||expectationsloose.sbs^
+||engineersskill.cfd^
+||w2t6pj.lol^
+||olx.pl-smart21331.sbs^
+||i1y3zg.lat^
+||giftcham.cholejai.com^
+||pl-8261341.icu^
+||allegrolokalnie.09910.click^
+||cornerstoneuniversityofflorida.org^
+||gonzaleshadley.shop^
+||touchide.sbs^
+||www.update.account.kayarcreative.com^
+||pl-99105.icu^
+||rootzon.sbs^
+||stayflowportal.com^
+||lengi.click^
+||guestassistflow.com^
+||revealfile.cyou^
+||welcomestayhub.com^
+||pl-56651.icu^
+||guestflowly.com^
+||pl3844569.click^
+||spantsestu.rest^
+||ghesreche.rest^
+||spolloblas.rest^
+||pathfind.digital^
+||piercegeorge.shop^
+||oapujc.wplata.lat^
+||wjcmas.wplata.lat^
 ||pl-54976.sbs^
 ||stayassistnow.com^
 ||confirmation-id4374624.com^
@@ -85,7 +122,6 @@
 ||martinezsophia.shop^
 ||littletikes-pl.club^
 ||yelhsa.shop^
-||allegrolokalnie.pl-56651.icu^
 ||funkostoreuk.club^
 ||dailyfinds.club^
 ||funkouk.top^
@@ -262,7 +298,6 @@
 ||pl-2114576.cfd^
 ||pl-019962.icu^
 ||pl-746183.icu^
-||allegrolokalnie.pl-8261341.icu^
 ||borpol.angeliccount.com^
 ||qajifue6.com^
 ||view-nowinc1010.com^
@@ -122125,21 +122160,3 @@
 ||schemesrace.lat^
 ||zdebu.lat^
 ||heartechalky.lat^
-||oferta6500240.cfd^
-||pl-oferta79953201743.cfd^
-||theboringapps.com^
-||throwaflag.com^
-||frodesigns.com^
-||pi-katlegorie-lnne-9328cv.rest^
-||ahkloud.com^
-||balihelptravel.com^
-||dbatm.com^
-||vitaliisheverov.com^
-||rayoslopez.com^
-||youtubeep.com^
-||weehawkengrace.com^
-||southcarescripts.com^
-||zenthavorilessa.cyou^
-||revisionstide.lat^
-||pl-51873.icu^
-||pi-katlegoria-reszta-3209c7.rest^
