@@ -1,12 +1,86 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.56
+! Version: 1.1.23.57
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-21T09:14:57.124Z
+! Last modified: 2026-01-21T10:11:26.363Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||me-goodtoms.com^
+||privatevideo14.top^
+||silverthreadcreatives.com^
+||olx.pl-smart32122.sbs^
+||jigotscatt.rest^
+||pol.thebraintrade.com^
+||startway.digital^
+||prostreamg.info^
+||recaptcha-metacloud.media^
+||puorto.com^
+||symbioze.com^
+||tcfinfra.net^
+||layayog.org^
+||labrujita.net^
+||dehonaham.org^
+||contentcommander.net^
+||arthurbaker.net^
+||alenka.org^
+||skyworldhotels.com^
+||rouletteoptimizer.com^
+||roundcoolingtower.com^
+||recagain.com^
+||recentfeedback.com^
+||fastrackksa.com^
+||fastrackarabia.com^
+||unityinyahweh.com^
+||riskeyeco.com^
+||hardmodegear.com^
+||shentongexpress.com^
+||guesst-reservationhub.com^
+||spindelweb.com^
+||smallenginerepairman.com^
+||gg8gamebai.com^
+||slyfoxsoftware.com^
+||fireearth.org^
+||fastrack-saudiarabia.com^
+||rosswade.com^
+||unitefortrump.com^
+||gestimad.com^
+||unitedglassnyc.com^
+||broomin.com^
+||sigdfs.com^
+||sohastar.com^
+||bongs-sale.com^
+||bongadong.com^
+||oxbetvip.net^
+||nandih.org^
+||fyrebet.net^
+||egabet.net^
+||birdeyeview.org^
+||dailygathomo.com^
+||dagadinhcao.com^
+||moon.rumble.com.de^
+||drawwwh.com^
+||rescuedogsoftware.com^
+||sadakatkarti.com^
+||fastrack-arabia.com^
+||hyokwfs.bwpsites.com^
+||mewejei.com^
+||starnewsweb.com^
+||impiefotog.rest^
+||fastrack-ksa.com^
+||dimowa--d6d921cef60811f0aae942dde27851f2.web.val.run^
+||automet.site^
+||weplpoctza.weebly.com^
+||sc3yomo8016.universe.wf^
+||alnasir.com.pk^
+||streaktracker.com^
+||softrehab.com^
+||strbs.com^
+||smallbizztips.com^
+||omturiya.org^
+||elasticlogo.net^
+||agnisara.org^
 ||amuqam.pro^
 ||massimobitpuls.com^
 ||magnumator-2-0.com^
@@ -121604,16 +121678,3 @@
 ||suwojudo.com^
 ||vawifuk.com^
 ||rudozucu.com^
-||paycraftk.top^
-||vaylsovkam.top^
-||outletpolska.shop^
-||cloudhatch.biz^
-||esatwhol.com^
-||plwied.danzerprojects.com^
-||helloweb3.digital^
-||alebilet.pl-oferta2305798.cfd^
-||security.floersegauard.com^
-||jobnexa.top^
-||chainworxl.top^
-||premiumprivatehire.com^
-||supportingchildrenwithburns.com^
