@@ -265,6 +265,6 @@
 	},
 	{
 		"hostlist.72.name": "OISD Blocklist NSFW",
-		"hostlist.72.description": "Blocks Adult Websites."
+		"hostlist.72.description": "Blocklist with hostnames of NSFW Websites"
 	}
 ]
