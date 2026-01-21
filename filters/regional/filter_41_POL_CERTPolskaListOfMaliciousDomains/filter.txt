@@ -1,12 +1,25 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.49
+! Version: 1.1.23.50
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-21T02:47:28.862Z
+! Last modified: 2026-01-21T03:38:42.961Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||gamebonyset.icu^
+||estable-corexis-app.com^
+||profitivafundalis.com^
+||ascensoportdex.com^
+||savingspro4u.com^
+||ats-electric.com^
+||icopywriting4u.com^
+||epictravels4u.com^
+||lumora-finsera.com^
+||fortisinvelix.com^
+||quelleportexia.com^
+||santanderprofitai.com^
+||solvex-fintrion.com^
 ||stitcabbat.rest^
 ||megga4track.info^
 ||valoqexro.net^
@@ -121593,10 +121606,3 @@
 ||microsoftmailupgrade.fudqe.top^
 ||juniperjournals.org^
 ||polskafortuna.click^
-||prefectagendafeed.pro^
-||zxchuanmei.com^
-||performheavilyfreethe-file.top^
-||heftcant.com^
-||alebilet.pl-ogloszenie-9726039.icu^
-||olx.pl-ogloszenie-9726039.icu^
-||allegro.pl-ogloszenie-9726039.icu^
