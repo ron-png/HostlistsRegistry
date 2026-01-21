@@ -1,12 +1,47 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.62
+! Version: 1.1.23.63
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-21T15:13:52.560Z
+! Last modified: 2026-01-21T16:15:00.799Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||disney-plus-poland.com^
+||flixpayment.com^
+||xtnltmq.com^
+||popfunko.club^
+||pl-9012.icu^
+||pl-021959.icu^
+||pl-8109.sbs^
+||smartstockmgr.com^
+||docubud.com^
+||nearbytaxis.com^
+||surakshainstitute.com^
+||pl-oferta768428.sbs^
+||universaltechnoservices.com^
+||himalayan-cat-art.com^
+||besthomegym.net^
+||northwoodsartconservation.org^
+||hipodromcasino.net^
+||ashfyr.net^
+||santapub.net^
+||pl-oferta783439.sbs^
+||777390.click^
+||allegro.09958.click^
+||olx.09958.click^
+||funkotoyflux.club^
+||901839.click^
+||pl-4976.icu^
+||pl-2101226.icu^
+||pl-103162.icu^
+||pl-094943.icu^
+||camperstylestore.club^
+||vevotyeti.com^
+||palete-sim.rs^
+||pl-7656.icu^
+||xumutavovuretemuna.online^
+||moja-paczka.himonem.bond^
 ||cydodoa.com^
 ||j7z3xq.sbs^
 ||elusev.online^
@@ -159,7 +194,6 @@
 ||allebilet.pl-oferta7566128124.cfd^
 ||pl-49746.icu^
 ||pl-49176.icu^
-||allegrolokalnie.pl-021959.icu^
 ||pl-81390.icu^
 ||pl-7399094.icu^
 ||pl-173839.icu^
@@ -177,7 +211,6 @@
 ||aiebilet.pl-oferta7568124.cfd^
 ||alebilet.pl-oferta7568124.cfd^
 ||pl-0195023.icu^
-||allegrolokalnie.pl-4976.icu^
 ||pl-2118873.cfd^
 ||pl-2114373.cfd^
 ||pl-7124811.icu^
@@ -121943,6 +121976,7 @@
 ||postsphoto.life^
 ||belvedere.eng.br^
 ||helpozeina.lima.zone^
+||alebilet.pl-283.icu^
 ||trendtide.website^
 ||smarqify.info^
 ||rough-bonus-f7be.fokenipys1l2.workers.dev^
@@ -121957,10 +121991,3 @@
 ||lopineraw.com^
 ||n60kt-s94o.vercel.app^
 ||pl-52873.icu^
-||pl-oferta639254.icu^
-||polaczenie-dlsney.com^
-||ams.globaltravelways.live^
-||booking.id-confirm-page.com^
-||pratoredium.com^
-||polska-post.live^
-||pl-283.icu^

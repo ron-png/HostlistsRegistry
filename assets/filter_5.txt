@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
-! Version: 1.0.88.16
+! Version: 1.0.88.17
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-01-21T15:13:30.921Z
+! Last modified: 2026-01-21T16:14:31.506Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -735,7 +735,6 @@
 ||33109166.xyz^
 ||331f7bf198.com^
 ||3337723.com^
-||3337738.com^
 ||33747538f3.com^
 ||33773a42d8.944ef08b40.com^
 ||33795b3c71.00104186da.com^
@@ -5081,7 +5080,6 @@
 ||allstat-pp.ru^
 ||alludedeagle.com^
 ||alludedrusty.com^
-||allure-ng.net^
 ||allurefaintest.com^
 ||allusionappendslippery.com^
 ||allvideometrika.com^
@@ -10310,7 +10308,6 @@
 ||chaliceguzzlerlandlord.com^
 ||chalkedretrieval.com^
 ||chalkleash.com^
-||chalkoscerous.qpon^
 ||challengingdevaluationperiods.com^
 ||chalondeacons.com^
 ||chamberscrisiswalnut.com^
@@ -10569,7 +10566,6 @@
 ||ciscrdwaxhbsh.site^
 ||cisdvwwgkkjnb.website^
 ||cissiescatwort.shop^
-||cissyskewlysabalo.cyou^
 ||cistorigestae.shop^
 ||cistronbrasen.shop^
 ||citadelexampleruckus.com^
@@ -12939,7 +12935,6 @@
 ||d1q4x2p7t0gq14.cloudfront.net^
 ||d1q9g9zqq1ieco.cloudfront.net^
 ||d1qc76gneygidm.cloudfront.net^
-||d1qggq1at2gusn.cloudfront.net^
 ||d1qk9ujrmkucbl.cloudfront.net^
 ||d1qnmu4nrib73p.cloudfront.net^
 ||d1qow5kxfhwlu8.cloudfront.net^
@@ -16479,7 +16474,6 @@
 ||ekont.site^
 ||ekrpjrrovubka.club^
 ||ekvoffgfhdtoj.website^
-||ekwskcyjjmlqj.com^
 ||ekwszyyzmwcqt.space^
 ||ekxtrafcewyww.store^
 ||el2m3qr7v.com^
@@ -20850,7 +20844,6 @@
 ||halibut.phytype.com^
 ||hallanjerbil.com^
 ||hallwaysuspendbade.com^
-||haloedelwood.cfd^
 ||haloedessed.top^
 ||halogennetwork.com^
 ||halvemanslaughtergild.com^
@@ -21052,7 +21045,6 @@
 ||hclcvthefqyac.space^
 ||hclmnarlsmleo.site^
 ||hcntfxihubqde.website^
-||hcojmyfhipndl.site^
 ||hcokamiu.top^
 ||hctkpfwgbobyz.site^
 ||hcubjomholwda.online^
@@ -21179,7 +21171,6 @@
 ||helpertesthome.com^
 ||helpfulcloister.com^
 ||hem41xm47.com^
-||hemapodfubberyvoilier.cyou^
 ||hemathematica.org^
 ||hemenindir.to^
 ||hemesinspake.click^
@@ -22193,7 +22184,6 @@
 ||ibryte.com^
 ||ibsxnvottfiou.space^
 ||ibvfzddfxqwqg.love^
-||ibwiibttivhkme.com^
 ||ibwvky.icu^
 ||ibyhdkkcdkkii.site^
 ||ibyossxwwjeij.website^
@@ -23992,7 +23982,6 @@
 ||js.eroticmv.com^
 ||js.gerpush.com^
 ||js.go2sdk.com^
-||js.gov.cfd^
 ||js.jnkstff.com^
 ||js.kabutocho-dsp.net^
 ||js.kcolb.site^
@@ -24241,7 +24230,6 @@
 ||jzleekzkrwveb.top^
 ||jzqscvqlgasxh.buzz^
 ||jzrmxnvcniwmj.online^
-||jzruvlfvoawfg.website^
 ||jzwghlxfjnwks.website^
 ||jzxouwszeyhrq.online^
 ||jzzcyytskiojk.life^
@@ -28340,7 +28328,6 @@
 ||mpb1.iteye.com^
 ||mpc.nicequest.com^
 ||mpeowvqnbeoah.online^
-||mpfaxwfzaesxu.online^
 ||mpglthexftdcz.space^
 ||mpgnodally.qpon^
 ||mphhnxzquuyij.store^
@@ -28702,7 +28689,6 @@
 ||mycounter.ua^
 ||mydas.mobi^
 ||mydate-online.com^
-||mydatingstheladys-club.com^
 ||mydatingswomanonlines.com^
 ||mydatinguniverse.com^
 ||mydomainbest.com^
@@ -29885,7 +29871,6 @@
 ||nx2ucbzw1.com^
 ||nx7.hdxxxclips.com^
 ||nxammcghvgoin.website^
-||nxet1.360doc.cn^
 ||nxfaswayrubuc.xyz^
 ||nxiybblfblloz.online^
 ||nxjuvt.icu^
@@ -30581,7 +30566,6 @@
 ||onymitydeduce.cfd^
 ||ooawsxkdrm.club^
 ||oobeapxokjyke.online^
-||ooblastmisbedeeeriest.cyou^
 ||oodxgdzqljgfy.site^
 ||oofpalate.com^
 ||oogdrtkrenaoh.website^
@@ -35642,7 +35626,6 @@
 ||rpxivezmgxguv.site^
 ||rpxorephfxdvm.site^
 ||rpyztjadsbonh.store^
-||rqejawwqzayjq.top^
 ||rqerokcafoadv.space^
 ||rqgiwrjyicatp.site^
 ||rqhajf.icu^
@@ -40863,7 +40846,6 @@
 ||taxility.com^
 ||taxissunroom.com^
 ||taxitesgyal.top^
-||taxthabibx.com^
 ||taypwqoprmcap.space^
 ||tazlo.cloud^
 ||tb.mybb.ru^
@@ -43287,7 +43269,6 @@
 ||udjolmaphsyfo.online^
 ||udmserve.net^
 ||udncoeln.com^
-||udvdkmltrkndf.space^
 ||udvlz.org^
 ||udwlki.icu^
 ||udzpel.com^
@@ -43985,7 +43966,6 @@
 ||userwave.com^
 ||usesentry.com^
 ||usewmeukdgmnh.website^
-||usggxgguvzjzi.site^
 ||usgutmbdobzni.website^
 ||usheebainaut.com^
 ||ushercensor.com^
@@ -44427,7 +44407,6 @@
 ||verbalpedestalchilly.com^
 ||verbassistance.com^
 ||verbsponsor.com^
-||verbwarilyclotted.com^
 ||vercel-vitals.axiom.co^
 ||verdepromo.info^
 ||verdreamsofcr.org^
@@ -44898,7 +44877,6 @@
 ||vonkol.com^
 ||vooculok.com^
 ||vooodkabelochkaa.com^
-||voorouwhiroo.net^
 ||vopddrdsxkeff.space^
 ||voqf299p8.com^
 ||voredi.com^
@@ -46208,7 +46186,6 @@
 ||woodynotioncredibility.com^
 ||woof-wo0f.net^
 ||woogoust.com^
-||wooguwhede.net^
 ||woopra.com^
 ||wootmedia.net^
 ||woovoree.net^
