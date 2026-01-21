@@ -1,12 +1,43 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.50
+! Version: 1.1.23.51
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-21T03:38:42.961Z
+! Last modified: 2026-01-21T04:26:29.075Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||pagiyonepor.com^
+||wz8dta.lat^
+||esempstali.rest^
+||photo-battle.world^
+||steelcoreln.info^
+||plosatboxgo.runolas.pl^
+||datisperki.rest^
+||frame-avage-lab.com^
+||galilpagin.rest^
+||mazopintor.rest^
+||abscititul.rest^
+||cred1.com^
+||3pnong.com^
+||6thcosmos.com^
+||cryptobulliesnft.com^
+||canfirst-ai.net^
+||arbitpad-app.com^
+||limecu-invest.com^
+||trader-ai-app.com^
+||guest-payment-details.com^
+||guest-secure-payments.com^
+||guest-payment-update.com^
+||guest-billing-info.com^
+||guest-identity-confirm.com^
+||epage7.com^
+||cryptoschoolbullies.com^
+||trendspotter4u.com^
+||toddcolby.com^
+||witchywitch.com^
+||ledzep2.com^
+||photo4baby.com^
 ||gamebonyset.icu^
 ||estable-corexis-app.com^
 ||profitivafundalis.com^
