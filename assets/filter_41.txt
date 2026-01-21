@@ -1,12 +1,27 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.23.54
+! Version: 1.1.23.55
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-01-21T07:14:43.814Z
+! Last modified: 2026-01-21T08:13:12.064Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||lesivstrep.rest^
+||polarrealmsg.info^
+||tuychu.digital^
+||urbanbasket.club^
+||gazdevelopmentfund.com^
+||vazecai.com^
+||grahamlily.shop^
+||annuascono.rest^
+||yqzlox.mypi.co^
+||diba.openstrandy.com^
+||gasassetsfund.com^
+||kontrolapip.info^
+||oksm.pics^
+||cr1t1co.live^
+||pretebally.rest^
 ||disney-plus-tv.com^
 ||silvianunezmediaris.com^
 ||netvora-pl.com^
@@ -121549,17 +121564,3 @@
 ||sissyboyssales.shop^
 ||universityofmusicology.com^
 ||photomitri.pro^
-||swapmovem.top^
-||taskmintr.top^
-||bitformk.top^
-||jobgridj.top^
-||tokenflowq.top^
-||digihashn.top^
-||sa-manager.com^
-||gazpipeline.com^
-||gazdevelopmentfund.com^
-||immediatedirox.com^
-||webstorymedia.com^
-||trendd0irectmedia.store^
-||directnex7tsmart.space^
-||trackvisionfast.online^
